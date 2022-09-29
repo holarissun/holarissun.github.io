@@ -14,9 +14,8 @@ My research passion lies in **reinforcement learning**. I believe reinforcement 
 I've researched on sample-efficient model-free DRL, goal-conditioned RL, safe-RL, offline-RL, robotics control, uncertainty quantification, and quantitative trading (A/H/Crypto).
 
 
-<h3>Education</h3>
-<p class="item_info">
-
+Education
+======
   <span style="font-weight: bold;">MMLab, The Chinese University of Hong Kong<br>
   </span>
   <span style="font-style: italic;">Aug.2018-Sep.2021 &nbsp;
