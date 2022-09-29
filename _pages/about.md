@@ -28,7 +28,6 @@ Education
 - Thesis:
     <a href="https://github.com/2Groza/MPhil_Thesis/blob/main/MPhil_Thesis.pdf">Toward Practical Deep Reinforcement Learning: Sample-Efficient Self-Supervised Continuous Control</a><br>
     <a href="https://github.com/2Groza/MPhil_Thesis/blob/main/Toward%20Practical%20Reinforcement%20Learning.pptx">Slide</a>.
-  </span>
   <p class="item_desc"></p>
 
   <span style="font-weight: bold;">School of Physics & Yuanpei College, Peking University<br>
@@ -43,7 +42,6 @@ Education
 - Undergraduate Thesis:
     <a href="https://github.com/2Groza/Undergraduate-Thesis">Applications of Deep Learning in Physics (in Chinese)</a><br>
     <a href="https://github.com/2Groza/Undergraduate-Thesis/blob/master/Thesis%20Slide_Hao.pdf">Here</a> is my thesis defense slide in English.
-  </span>
   <p class="item_desc"></p>
 
 
