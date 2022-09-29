@@ -16,6 +16,12 @@ I've researched on sample-efficient model-free DRL, goal-conditioned RL, safe-RL
 
 Education
 ======
+ <span style="font-weight: bold;">van der Schaar Lab, University of Cambridge<br>
+  </span>
+  <span style="font-style: italic;">Oct.2021-Now &nbsp;
+  </span><a>D.Phil. &nbsp;<br></a>
+
+
   <span style="font-weight: bold;">MMLab, The Chinese University of Hong Kong<br>
   </span>
   <span style="font-style: italic;">Aug.2018-Sep.2021 &nbsp;
