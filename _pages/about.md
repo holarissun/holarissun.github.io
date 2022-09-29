@@ -18,14 +18,14 @@ Education
 ======
  <span style="font-weight: bold;">van der Schaar Lab, University of Cambridge<br>
   </span>
-  <span style="font-style: italic;">Oct.2021-Now. D.Phil. &nbsp;<br></a>
+  <span style="font-style: italic;">Oct.2021-Now. D.Phil.
 
 
   <span style="font-weight: bold;">MMLab, The Chinese University of Hong Kong<br>
   </span>
   <span style="font-style: italic;">Aug.2018-Sep.2021. M.Phil.<br>
 
-  #### Thesis:
+- Thesis:
     <a href="https://github.com/2Groza/MPhil_Thesis/blob/main/MPhil_Thesis.pdf">Toward Practical Deep Reinforcement Learning: Sample-Efficient Self-Supervised Continuous Control</a><br>
     <a href="https://github.com/2Groza/MPhil_Thesis/blob/main/Toward%20Practical%20Reinforcement%20Learning.pptx">Slide</a>.
   </span>
@@ -35,12 +35,12 @@ Education
   </span>
   <span style="font-style: italic;">Sep.2013-Jul.2018. B.Sc<br>
 
-  #### Coursework:
+- Coursework:
   </span>
   Overall Grade: 89/100 (3.75/4.00), ranked 29/271 <br>
   Major Grade: 91/100 (3.85/4.00), ranked 2/48 <br>
 
-  #### Undergraduate Thesis:
+- Undergraduate Thesis:
     <a href="https://github.com/2Groza/Undergraduate-Thesis">Applications of Deep Learning in Physics (in Chinese)</a><br>
     <a href="https://github.com/2Groza/Undergraduate-Thesis/blob/master/Thesis%20Slide_Hao.pdf">Here</a> is my thesis defense slide in English.
   </span>
