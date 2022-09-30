@@ -125,7 +125,7 @@ author_profile: true
 <!-- <p align="center" style="margin-top:7mm; margin-right:2mm; margin-bottom:0; margin-left:0;" class=""><a target="_blank"><img src="../images/cambridge.png" width="45" border="0"></a></p> -->
 </td>
 <td valign="middle"><p style="margin-top:0; margin-right:0; margin-bottom:2mm;">
-<span style="font-weight: bold;">[ICML 2022 DFUQ.W] DAUX: a Density-based Approach for Uncertainty eXplanations <a href="https://arxiv.org/abs/2207.05161">[Paper]</a><a href="https://anonymous.4open.science/r/DAUX-CBBF">[Code] </a>
+<span style="font-weight: bold;">[ICML 2022 DFUQ] DAUX: a Density-based Approach for Uncertainty eXplanations <a href="https://arxiv.org/abs/2207.05161">[Paper]</a><a href="https://anonymous.4open.science/r/DAUX-CBBF">[Code] </a>
 <!-- <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage]</a> -->
 </span>
 <br>
