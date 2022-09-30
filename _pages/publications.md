@@ -50,7 +50,7 @@ author_profile: true
   <!-- </span> &nbsp; <a href="http://www.ie.cuhk.edu.hk/main/index.shtml">Department of Information Engineering</a>, The Chinese University of Hong Kong, Hong Kong S.A.R. -->
 <li> We optimize the GCSL with a lower bound of the goal-reaching objective and link the success of GCSL from perspective of offline RL. <br>
 </li>
-
+<p>
 <!--  -->
 
 
@@ -68,7 +68,7 @@ author_profile: true
 <!-- </span> &nbsp; <a href="http://www.ie.cuhk.edu.hk/main/index.shtml">Department of Information Engineering</a>, The Chinese University of Hong Kong, Hong Kong S.A.R. -->
 <li> We adapt transformer to stock movement predictions. <br>
 </li>
-
+<p>
 <!--  -->
 
 
@@ -86,7 +86,7 @@ author_profile: true
 <!-- </span> &nbsp; <a href="http://www.ie.cuhk.edu.hk/main/index.shtml">Department of Information Engineering</a>, The Chinese University of Hong Kong, Hong Kong S.A.R. -->
 <li> We study the correlations between lables to improve model performance. <br>
 </li>
-
+<p>
 <!--  -->
 
 <tbody>
@@ -102,7 +102,7 @@ author_profile: true
 <!-- </span> &nbsp; <a href="http://www.ie.cuhk.edu.hk/main/index.shtml">Department of Information Engineering</a>, The Chinese University of Hong Kong, Hong Kong S.A.R. -->
 <li> Supervised Learning can be used to solve goal-conditioned RL tasks. <br>
 </li>
-
+<p>
 <!--  -->
 
 <!--
@@ -110,6 +110,7 @@ author_profile: true
 
 <!--  -->
 
+---
 
 ## Workshop
 
@@ -130,6 +131,7 @@ author_profile: true
 <!-- </span> &nbsp; <a href="http://www.ie.cuhk.edu.hk/main/index.shtml">Department of Information Engineering</a>, The Chinese University of Hong Kong, Hong Kong S.A.R. -->
 <li> We propose a density-based approach to classify uncertain examples. <br>
 </li>
+<p>
 <!--  -->
 
 
