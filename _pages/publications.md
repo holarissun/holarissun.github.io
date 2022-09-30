@@ -49,28 +49,26 @@ author_profile: true
 <!-- </span> &nbsp; <a href="http://www.ie.cuhk.edu.hk/main/index.shtml">Department of Information Engineering</a>, The Chinese University of Hong Kong, Hong Kong S.A.R. -->
 <li> We propose a density-based approach to classify uncertain examples. <br>
 </li>
+<!--  -->
 
 
+<tbody>
+<tr valign="baseline">
+<td width="90">
+  <p align="center" style="margin-top:7mm; margin-right:2mm; margin-bottom:0; margin-left:0;" class=""><a target="_blank"><img src="cambridge.png" width="45" border="0"></a></p>
+</td>
+<td valign="middle"><p style="margin-top:0; margin-right:0; margin-bottom:2mm;">
+  <span style="font-weight: bold;">[ICLR 2022] Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL <a href="https://arxiv.org/abs/2202.04478">[Paper]</a><a href="https://github.com/YangRui2015/AWGCSL">[Code] </a>
+    <!-- <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage]</a> -->
+  </span>
+  <br>
+  <span style="font-style: italic;"> Rui Yang, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, Yali Du, Xiu Li, Lei Han, Chongjie Zhang
+  <!-- </span> &nbsp; <a href="http://www.ie.cuhk.edu.hk/main/index.shtml">Department of Information Engineering</a>, The Chinese University of Hong Kong, Hong Kong S.A.R. -->
+</p>
+<li> We optimize the GCSL with a lower bound of the goal-reaching objective and link the success of GCSL from perspective of offline RL. <br>
+</li>
 
-<table bordercolor="white" bordercolordark="white" bordercolorlight="white" cellpadding="0" cellspacing="0" height="45" bgcolor="white">
-    <tbody>
-      <tr valign="baseline">
-        <td width="90">
-          <p align="center" style="margin-top:7mm; margin-right:2mm; margin-bottom:0; margin-left:0;" class=""><a target="_blank"><img src="images/cambridge.png" width="45" border="0"></a></p>
-        </td>
-        <td valign="middle"><p style="margin-top:0; margin-right:0; margin-bottom:2mm;">
-          <span style="font-weight: bold;">[ICLR 2022] Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL <a href="https://arxiv.org/abs/2202.04478">[Paper]</a><a href="https://github.com/YangRui2015/AWGCSL">[Code] </a>
-            <!-- <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage]</a> -->
-          </span>
-          <br>
-          <span style="font-style: italic;"> Rui Yang, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, Yali Du, Xiu Li, Lei Han, Chongjie Zhang
-          <!-- </span> &nbsp; <a href="http://www.ie.cuhk.edu.hk/main/index.shtml">Department of Information Engineering</a>, The Chinese University of Hong Kong, Hong Kong S.A.R. -->
-        </p>
-        <li> We optimize the GCSL with a lower bound of the goal-reaching objective and link the success of GCSL from perspective of offline RL. <br>
-        </li>
-        <p>
-</tbody>
-</table>
+<!--  -->
 
 
 <table bordercolor="white" bordercolordark="white" bordercolorlight="white" cellpadding="0" cellspacing="0" height="45" bgcolor="white">
