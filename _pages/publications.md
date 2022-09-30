@@ -23,28 +23,24 @@ author_profile: true
 
 <span style="font-weight: bold;">[ICLR 2022] Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL <a href="https://arxiv.org/abs/2202.04478"> [Paper] </a><a href="https://github.com/YangRui2015/AWGCSL"> [Code] </a> <br>
 <span style="font-style: italic;"> Rui Yang, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, Yali Du, Xiu Li, Lei Han, Chongjie Zhang
-<!-- </span> &nbsp; <a href="http://www.ie.cuhk.edu.hk/main/index.shtml">Department of Information Engineering</a>, The Chinese University of Hong Kong, Hong Kong S.A.R. -->
 <li> We optimize the GCSL with a lower bound of the goal-reaching objective and link the success of GCSL from perspective of offline RL. <br>
 </li>
 <p>
 
 <span style="font-weight: bold;">[IJCAI 2021] Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction <a href="https://www.ijcai.org/proceedings/2020/0640.pdf"> [Paper] </a> <br>
 <span style="font-style: italic;"> Qianggang Ding, Sifan Wu, Hao Sun, Jiadong Guo, Jian Guo
-<!-- </span> &nbsp; <a href="http://www.ie.cuhk.edu.hk/main/index.shtml">Department of Information Engineering</a>, The Chinese University of Hong Kong, Hong Kong S.A.R. -->
 <li> We adapt transformer to stock movement predictions. <br>
 </li>
 <p>
 
 <span style="font-weight: bold;">[AAAI 2021] Adaptive Regularization of Labels <a href="https://arxiv.org/abs/1908.05474"> [Paper] </a> <br>
 <span style="font-style: italic;"> Qianggang Ding, Sifan Wu, Hao Sun, Jiadong Guo, Shu-Tao Xia
-<!-- </span> &nbsp; <a href="http://www.ie.cuhk.edu.hk/main/index.shtml">Department of Information Engineering</a>, The Chinese University of Hong Kong, Hong Kong S.A.R. -->
 <li> We study the correlations between lables to improve model performance. <br>
 </li>
 <p>
 
 <span style="font-weight: bold;">[NeurIPS 2019 (Spotlight)] Policy Continuation with Hindsight Inverse Dynamics <a href="https://arxiv.org/abs/1910.14055"> [Paper] </a><a href="https://github.com/2Groza/PCHID_code"> [Code] </a> <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage]</a> <br>
 <span style="font-style: italic;"> Hao Sun, Zhizhong Li, Xiaotong Liu, Dahua Lin, Bolei Zhou
-<!-- </span> &nbsp; <a href="http://www.ie.cuhk.edu.hk/main/index.shtml">Department of Information Engineering</a>, The Chinese University of Hong Kong, Hong Kong S.A.R. -->
 <li> Supervised Learning can be used to solve goal-conditioned RL tasks. <br>
 </li>
 <p>
