@@ -99,6 +99,17 @@ author_profile: true
 <li> We propose a density-based approach to classify uncertain examples. <br>
 </li>
 <p>
+
+<span style="font-weight: bold;">[ICML 2022 DFUQ] DAUX: a Density-based Approach for Uncertainty eXplanations <a href="https://arxiv.org/abs/2207.05161"> [Paper] </a><a href="https://anonymous.4open.science/r/DAUX-CBBF"> [Code] </a>
+<!-- <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage]</a> -->
+</span>
+<br>
+<span style="font-style: italic;"> Hao Sun*, Boris van Breugel*, Jonathan Crabbe, Nabeel Seedat, Mihaela van der Schaar
+<li> We propose a density-based approach to classify uncertain examples. <br>
+</li>
+<p>
+
+
 <!--  -->
 
 
