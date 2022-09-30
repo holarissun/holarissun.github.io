@@ -18,7 +18,7 @@ author_profile: true
 
   <!-- <table bordercolor="white" bordercolordark="white" bordercolorlight="white" cellpadding="0" cellspacing="0" height="45" bgcolor="white"> -->
 
-<span style="font-weight: bold;">[NeurIPS 2022] Exploiting Reward Shifting in Value-Based DRL <a href="https://arxiv.org/abs/2209.07288">[Paper]</a><a href="https://github.com/2Groza/RewardShifting">[Code] </a>
+<span style="font-weight: bold;">[NeurIPS 2022] Exploiting Reward Shifting in Value-Based DRL <a href="https://arxiv.org/abs/2209.07288"> [Paper] </a><a href="https://github.com/2Groza/RewardShifting"> [Code] </a>
 <!-- <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage]</a> -->
 </span>
 <br>
@@ -29,7 +29,7 @@ author_profile: true
 
 <!--  -->
 
-<span style="font-weight: bold;">[ICLR 2022] Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL <a href="https://arxiv.org/abs/2202.04478">[Paper]</a><a href="https://github.com/YangRui2015/AWGCSL">[Code] </a>
+<span style="font-weight: bold;">[ICLR 2022] Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL <a href="https://arxiv.org/abs/2202.04478"> [Paper] </a><a href="https://github.com/YangRui2015/AWGCSL"> [Code] </a>
   <!-- <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage]</a> -->
 </span>
 <br>
@@ -51,7 +51,7 @@ author_profile: true
 <p>
 <!--  -->
 
-<span style="font-weight: bold;">[AAAI 2021] Adaptive Regularization of Labels <a href="https://arxiv.org/abs/1908.05474">[Paper]</a>
+<span style="font-weight: bold;">[AAAI 2021] Adaptive Regularization of Labels <a href="https://arxiv.org/abs/1908.05474"> [Paper] </a>
   <!-- <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage]</a> -->
 </span>
 <br>
@@ -62,7 +62,7 @@ author_profile: true
 <p>
 <!--  -->
 
-<span style="font-weight: bold;">[NeurIPS 2019 (Spotlight)] Policy Continuation with Hindsight Inverse Dynamics <a href="https://arxiv.org/abs/1910.14055"> [Preprint] </a><a href="https://github.com/2Groza/PCHID_code"> [Code] </a> <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage]</a>
+<span style="font-weight: bold;">[NeurIPS 2019 (Spotlight)] Policy Continuation with Hindsight Inverse Dynamics <a href="https://arxiv.org/abs/1910.14055"> [Paper] </a><a href="https://github.com/2Groza/PCHID_code"> [Code] </a> <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage]</a>
 </span>
 <br>
 <span style="font-style: italic;"> Hao Sun, Zhizhong Li, Xiaotong Liu, Dahua Lin, Bolei Zhou
@@ -84,7 +84,7 @@ author_profile: true
 <!--  -->
  <!-- <table bordercolor="white" bordercolordark="white" bordercolorlight="white" cellpadding="0" cellspacing="0" height="45" bgcolor="white"> -->
 
-<span style="font-weight: bold;">[ICML 2022 DFUQ] DAUX: a Density-based Approach for Uncertainty eXplanations <a href="https://arxiv.org/abs/2207.05161">[Paper]</a><a href="https://anonymous.4open.science/r/DAUX-CBBF">[Code] </a>
+<span style="font-weight: bold;">[ICML 2022 DFUQ] DAUX: a Density-based Approach for Uncertainty eXplanations <a href="https://arxiv.org/abs/2207.05161"> [Paper] </a><a href="https://anonymous.4open.science/r/DAUX-CBBF"> [Code] </a>
 <!-- <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage]</a> -->
 </span>
 <br>
