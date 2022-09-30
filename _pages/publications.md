@@ -42,8 +42,7 @@ author_profile: true
 </li>
 <p>
 
-<span style="font-weight: bold;">[NeurIPS 2019 (Spotlight)] Policy Continuation with Hindsight Inverse Dynamics <a href="https://arxiv.org/abs/1910.14055"> [Paper] </a><a href="https://github.com/2Groza/PCHID_code"> [Code] </a> <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage]</a>
-
+<span style="font-weight: bold;">[NeurIPS 2019 (Spotlight)] Policy Continuation with Hindsight Inverse Dynamics <a href="https://arxiv.org/abs/1910.14055"> [Paper] </a><a href="https://github.com/2Groza/PCHID_code"> [Code] </a> <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage]</a> <br>
 <span style="font-style: italic;"> Hao Sun, Zhizhong Li, Xiaotong Liu, Dahua Lin, Bolei Zhou
 <!-- </span> &nbsp; <a href="http://www.ie.cuhk.edu.hk/main/index.shtml">Department of Information Engineering</a>, The Chinese University of Hong Kong, Hong Kong S.A.R. -->
 <li> Supervised Learning can be used to solve goal-conditioned RL tasks. <br>
@@ -54,7 +53,6 @@ author_profile: true
 <h2>Workshop</h2>
 
 <span style="font-weight: bold;">[ICML 2022 DFUQ] DAUX: a Density-based Approach for Uncertainty eXplanations <a href="https://arxiv.org/abs/2207.05161"> [Paper] </a><a href="https://anonymous.4open.science/r/DAUX-CBBF"> [Code] </a>  <br>
-<!-- <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage]</a> -->
 <span style="font-style: italic;"> Hao Sun*, Boris van Breugel*, Jonathan Crabbe, Nabeel Seedat, Mihaela van der Schaar
 <li> We propose a density-based approach to classify uncertain examples. <br>
 </li>
