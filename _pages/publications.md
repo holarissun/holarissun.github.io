@@ -40,7 +40,7 @@ author_profile: true
 <p>
 <!--  -->
 
-<span style="font-weight: bold;">[IJCAI 2021] Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction <a href="https://www.ijcai.org/proceedings/2020/0640.pdf">[Paper]</a>
+<span style="font-weight: bold;">[IJCAI 2021] Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction <a href="https://www.ijcai.org/proceedings/2020/0640.pdf"> [Paper] </a>
   <!-- <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage]</a> -->
 </span>
 <br>
@@ -62,14 +62,12 @@ author_profile: true
 <p>
 <!--  -->
 
-<span style="font-weight: bold;">[NeurIPS 2019 (Spotlight)] Policy Continuation with Hindsight Inverse Dynamics <a href="https://arxiv.org/abs/1910.14055">[Preprint]</a><a href="https://github.com/2Groza/PCHID_code">[Code] </a> <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage]</a>
+<span style="font-weight: bold;">[NeurIPS 2019 (Spotlight)] Policy Continuation with Hindsight Inverse Dynamics <a href="https://arxiv.org/abs/1910.14055"> [Preprint] </a><a href="https://github.com/2Groza/PCHID_code"> [Code] </a> <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage]</a>
 </span>
 <br>
 <span style="font-style: italic;"> Hao Sun, Zhizhong Li, Xiaotong Liu, Dahua Lin, Bolei Zhou
 <!-- </span> &nbsp; <a href="http://www.ie.cuhk.edu.hk/main/index.shtml">Department of Information Engineering</a>, The Chinese University of Hong Kong, Hong Kong S.A.R. -->
-<li> Supervised Learning can be used to solve goal-conditioned RL tasks. <br>
-</li>
-<p>
+ - Supervised Learning can be used to solve goal-conditioned RL tasks.
 
 
 <!--  -->
