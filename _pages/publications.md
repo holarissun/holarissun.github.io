@@ -12,7 +12,10 @@ author_profile: true
 <!-- *: corresponding author -->
 
 
-## Conference
+
+
+
+<h2>Conference</h2>
 
 <!-- <div class="content anchor" id="research"><h3>Research Work</h3> <h5>* denotes equal contribution</h5> -->
 
@@ -67,7 +70,8 @@ author_profile: true
 <br>
 <span style="font-style: italic;"> Hao Sun, Zhizhong Li, Xiaotong Liu, Dahua Lin, Bolei Zhou
 <!-- </span> &nbsp; <a href="http://www.ie.cuhk.edu.hk/main/index.shtml">Department of Information Engineering</a>, The Chinese University of Hong Kong, Hong Kong S.A.R. -->
-<li> Supervised Learning can be used to solve goal-conditioned RL tasks.
+<li> Supervised Learning can be used to solve goal-conditioned RL tasks. <br>
+</li>
 <p>
 
 
@@ -80,7 +84,7 @@ author_profile: true
 
 
 <!-- asdfads -->
-<h3>Workshop</h3>
+<h2>Workshop</h2>
 
 <!--  -->
  <!-- <table bordercolor="white" bordercolordark="white" bordercolorlight="white" cellpadding="0" cellspacing="0" height="45" bgcolor="white"> -->
