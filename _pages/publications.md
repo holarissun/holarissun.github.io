@@ -71,7 +71,8 @@ author_profile: true
         <li> We optimize the GCSL with a lower bound of the goal-reaching objective and link the success of GCSL from perspective of offline RL. <br>
         </li>
         <p>
-
+</tbody>
+</table>
 
 
 <table bordercolor="white" bordercolordark="white" bordercolorlight="white" cellpadding="0" cellspacing="0" height="45" bgcolor="white">
@@ -126,7 +127,7 @@ author_profile: true
       </p>
       <li> Supervised Learning can be used to solve goal-conditioned RL tasks. <br>
       </li>
-      <p>
+
 
 
 <!--
