@@ -108,10 +108,12 @@ author_profile: true
 <!--
 {% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %} -->
 
+<!--  -->
+
 
 ## Workshop
 
-
+<!--  -->
 
 <tbody>
 <tr valign="baseline">
