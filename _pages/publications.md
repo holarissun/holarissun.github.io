@@ -12,50 +12,40 @@ author_profile: true
 <!-- *: corresponding author -->
 
 
-<h2>Conference</h2>
+## Conference
+### [NeurIPS 2022] Exploiting Reward Shifting in Value-Based DRL  <a href="https://arxiv.org/abs/2209.07288"> [Paper] </a><a href="https://github.com/2Groza/RewardShifting"> [Code] </a>
 
-<span style="font-weight: bold;">[NeurIPS 2022] Exploiting Reward Shifting in Value-Based DRL <a href="https://arxiv.org/abs/2209.07288"> [Paper] </a><a href="https://github.com/2Groza/RewardShifting"> [Code] </a> <br>
+*Hao Sun, Lei Han, Rui Yang, Xiaoteng Ma, Jian Guo, Bolei Zhou*
 
-<span style="font-style: italic;"> Hao Sun, Lei Han, Rui Yang, Xiaoteng Ma, Jian Guo, Bolei Zhou
-<li> A positive reward shifting leads to conservative exploitation, while a negative reward shifting leads to curiosity-driven exploration. <br>
-</li>
-<p>
+- A positive reward shifting leads to conservative exploitation, while a negative reward shifting leads to curiosity-driven exploration.
 
 
-<span style="font-weight: bold;">[ICLR 2022] Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL <a href="https://arxiv.org/abs/2202.04478"> [Paper] </a><a href="https://github.com/YangRui2015/AWGCSL"> [Code] </a> <br>
+### [ICLR 2022] Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL <a href="https://arxiv.org/abs/2202.04478"> [Paper] </a><a href="https://github.com/YangRui2015/AWGCSL"> [Code] </a>
 
-<span style="font-style: italic;"> Rui Yang, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, Yali Du, Xiu Li, Lei Han, Chongjie Zhang
-<li> We optimize the GCSL with a lower bound of the goal-reaching objective and link the success of GCSL from perspective of offline RL. <br>
-</li>
-<p>
+*Rui Yang, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, Yali Du, Xiu Li, Lei Han, Chongjie Zhang*
+- We optimize the GCSL with a lower bound of the goal-reaching objective and link the success of GCSL from perspective of offline RL.
 
-<span style="font-weight: bold;">[IJCAI 2021] Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction <a href="https://www.ijcai.org/proceedings/2020/0640.pdf"> [Paper] </a> <br>
+### [IJCAI 2021] Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction <a href="https://www.ijcai.org/proceedings/2020/0640.pdf"> [Paper] </a>
 
-<span style="font-style: italic;"> Qianggang Ding, Sifan Wu, Hao Sun, Jiadong Guo, Jian Guo
-<li> We adapt transformer to stock movement predictions. <br>
-</li>
-<p>
+*Qianggang Ding, Sifan Wu, Hao Sun, Jiadong Guo, Jian Guo*
 
-<span style="font-weight: bold;">[AAAI 2021] Adaptive Regularization of Labels <a href="https://arxiv.org/abs/1908.05474"> [Paper] </a> <br>
+- We adapt transformer to stock movement predictions.
 
-<span style="font-style: italic;"> Qianggang Ding, Sifan Wu, Hao Sun, Jiadong Guo, Shu-Tao Xia
-<li> We study the correlations between lables to improve model performance. <br>
-</li>
-<p>
+### [AAAI 2021] Adaptive Regularization of Labels <a href="https://arxiv.org/abs/1908.05474"> [Paper] </a>
 
-<span style="font-weight: bold;">[NeurIPS 2019 (Spotlight)] Policy Continuation with Hindsight Inverse Dynamics <a href="https://arxiv.org/abs/1910.14055"> [Paper] </a><a href="https://github.com/2Groza/PCHID_code"> [Code] </a> <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage] </a> <br>
-
-<span style="font-style: italic;"> Hao Sun, Zhizhong Li, Xiaotong Liu, Dahua Lin, Bolei Zhou
-<li> Supervised Learning can be used to solve goal-conditioned RL tasks. <br>
-</li>
-<p>
+*Qianggang Ding, Sifan Wu, Hao Sun, Jiadong Guo, Shu-Tao Xia*
+- We study the correlations between lables to improve model performance.
 
 
-<h2>Workshop</h2>
+### [NeurIPS 2019 (Spotlight)] Policy Continuation with Hindsight Inverse Dynamics <a href="https://arxiv.org/abs/1910.14055"> [Paper] </a><a href="https://github.com/2Groza/PCHID_code"> [Code] </a> <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage] </a>
 
-<span style="font-weight: bold;">[ICML 2022 DFUQ] DAUX: a Density-based Approach for Uncertainty eXplanations <a href="https://arxiv.org/abs/2207.05161"> [Paper] </a><a href="https://anonymous.4open.science/r/DAUX-CBBF"> [Code] </a>  <br>
+*Hao Sun, Zhizhong Li, Xiaotong Liu, Dahua Lin, Bolei Zhou*
+- Supervised Learning can be used to solve goal-conditioned RL tasks.
 
-<span style="font-style: italic;"> Hao Sun*, Boris van Breugel*, Jonathan Crabbe, Nabeel Seedat, Mihaela van der Schaar
-<li> We propose a density-based approach to classify uncertain examples. <br>
-</li>
-<p>
+
+## Workshop
+
+### [ICML 2022 DFUQ] DAUX: a Density-based Approach for Uncertainty eXplanations <a href="https://arxiv.org/abs/2207.05161"> [Paper] </a><a href="https://anonymous.4open.science/r/DAUX-CBBF"> [Code] </a>
+
+*Hao Sun^, Boris van Breugel^, Jonathan Crabbe, Nabeel Seedat, Mihaela van der Schaar*
+- We propose a density-based approach to classify uncertain examples.
