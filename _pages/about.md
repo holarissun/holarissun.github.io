@@ -35,7 +35,6 @@ Education
   <span style="font-style: italic;">Sep.2013-Jul.2018. B.Sc<br>
 
   - Coursework:
-    </span>
     Overall Grade: 89/100 (3.75/4.00), ranked 29/271 <br>
     Major Grade: 91/100 (3.85/4.00), ranked 2/48 <br>
 
