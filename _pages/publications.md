@@ -14,7 +14,7 @@ author_profile: true
 
 ## Conference
 
-<div class="content anchor" id="research"><h3>Research Work</h3> <h5>* denotes equal contribution</h5>
+<!-- <div class="content anchor" id="research"><h3>Research Work</h3> <h5>* denotes equal contribution</h5> -->
 
   <table bordercolor="white" bordercolordark="white" bordercolorlight="white" cellpadding="0" cellspacing="0" height="45" bgcolor="white">
     <tbody>
@@ -29,28 +29,26 @@ author_profile: true
           <br>
           <span style="font-style: italic;"> Hao Sun, Lei Han, Rui Yang, Xiaoteng Ma, Jian Guo, Bolei Zhou
           <!-- </span> &nbsp; <a href="http://www.ie.cuhk.edu.hk/main/index.shtml">Department of Information Engineering</a>, The Chinese University of Hong Kong, Hong Kong S.A.R. -->
-        </p>
         <li> A positive reward shifting leads to conservative exploitation, while a negative reward shifting leads to curiosity-driven exploration. <br>
         </li>
         <p>
 
-<table bordercolor="white" bordercolordark="white" bordercolorlight="white" cellpadding="0" cellspacing="0" height="45" bgcolor="white">
-    <tbody>
-      <tr valign="baseline">
-        <td width="90">
-          <p align="center" style="margin-top:7mm; margin-right:2mm; margin-bottom:0; margin-left:0;" class=""><a target="_blank"><img src="images/cambridge.png" width="45" border="0"></a></p>
-        </td>
-        <td valign="middle"><p style="margin-top:0; margin-right:0; margin-bottom:2mm;">
-          <span style="font-weight: bold;">[ICML 2022 DFUQ.W] DAUX: a Density-based Approach for Uncertainty eXplanations <a href="https://arxiv.org/abs/2207.05161">[Paper]</a><a href="https://anonymous.4open.science/r/DAUX-CBBF">[Code] </a>
-            <!-- <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage]</a> -->
-          </span>
-          <br>
-          <span style="font-style: italic;"> Hao Sun*, Boris van Breugel*, Jonathan Crabbe, Nabeel Seedat, Mihaela van der Schaar
-          <!-- </span> &nbsp; <a href="http://www.ie.cuhk.edu.hk/main/index.shtml">Department of Information Engineering</a>, The Chinese University of Hong Kong, Hong Kong S.A.R. -->
-        </p>
-        <li> We propose a density-based approach to classify uncertain examples. <br>
-        </li>
-        <p>
+<!--  -->
+
+<tbody>
+<tr valign="baseline">
+<td width="90">
+<p align="center" style="margin-top:7mm; margin-right:2mm; margin-bottom:0; margin-left:0;" class=""><a target="_blank"><img src="images/cambridge.png" width="45" border="0"></a></p>
+</td>
+<td valign="middle"><p style="margin-top:0; margin-right:0; margin-bottom:2mm;">
+<span style="font-weight: bold;">[ICML 2022 DFUQ.W] DAUX: a Density-based Approach for Uncertainty eXplanations <a href="https://arxiv.org/abs/2207.05161">[Paper]</a><a href="https://anonymous.4open.science/r/DAUX-CBBF">[Code] </a>
+<!-- <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage]</a> -->
+</span>
+<br>
+<span style="font-style: italic;"> Hao Sun*, Boris van Breugel*, Jonathan Crabbe, Nabeel Seedat, Mihaela van der Schaar
+<!-- </span> &nbsp; <a href="http://www.ie.cuhk.edu.hk/main/index.shtml">Department of Information Engineering</a>, The Chinese University of Hong Kong, Hong Kong S.A.R. -->
+<li> We propose a density-based approach to classify uncertain examples. <br>
+</li>
 
 
 
