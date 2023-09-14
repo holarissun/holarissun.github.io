@@ -8,23 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the University of Cambridge, supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Prof. Mihaela van der Schaar</a>. Previously I received my M.Phil. degree from MMLab@CUHK, advised by <a href="http://dahua.me/">Prof. Dahua Lin</a> and <a href="http://bzhou.ie.cuhk.edu.hk/">Prof. Bolei Zhou</a>; I received my Bachelor of Science degree from Yuanpei Honor Program, Peking University. I also got a double degree in Management from Guanghua School, Peking University. I was a research assistant at the LCDM group@UIUC.
+🚀 I am a PhD student at the University of Cambridge, supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Prof. Mihaela van der Schaar</a>. Previously I received my M.Phil. degree from MMLab@CUHK, advised by <a href="http://dahua.me/">Prof. Dahua Lin</a> and <a href="http://bzhou.ie.cuhk.edu.hk/">Prof. Bolei Zhou</a>; I received my Bachelor of Science degree from Yuanpei Honor Program, Peking University. I also got a double degree in Management from Guanghua School, Peking University. I was a research assistant at the LCDM group@UIUC.
 
-I believe **Reinforcement Learning** is a vital part of the solution for AGI. My previous work on deep reinforcement learning is motivated by practical applications like robotics, healthcare, finance, and large language models. My research keywords during the past 4 years include:
+🤖️ I believe **Reinforcement Learning** is a vital part of the solution for AGI. My previous work on deep reinforcement learning is motivated by practical applications like robotics, healthcare, finance, and large language models. My research keywords during the past 4 years include:
 - RL via Supervised Learning (2020-); Goal-Conditioned RL (2020-)
 - Value-Based DRL (2021-); Offline RL (2021-); Optimism in Exploration (2021-); 
 - **Uncertainty Quantification** (2022-); **Data-Centric Off-Policy Evaluation** (2022-); 
 - **Interpretable RL**(2023-); **RL in Language Models.** (2023-)
 
-_**I'm looking for internships for summer 2024, please drop me an email if you find my research interesting. I'm also open to collaborations🤝.**_
+🤝 _**I'm looking for internships for 2024. Please drop me an email if you find my research interesting. I'm also open to collaborations.**_
 
 Education
 ======
- <span style="font-weight: bold;">Ph.D., van der Schaar Lab, University of Cambridge, Jun.2025 (expected)<br>
+ <span style="font-weight: bold;"> 💪 Ph.D., van der Schaar Lab, University of Cambridge, Jun.2025 (expected)<br>
   </span>
   - Research Topic: Reality-Centric Deep Reinforcement Learning
 
-  <span style="font-weight: bold;">M.Phil., MMLab, The Chinese University of Hong Kong, Sep.2021.<br>
+  <span style="font-weight: bold;"> 🎓 M.Phil., MMLab, The Chinese University of Hong Kong, Sep.2021.<br>
   </span>
   - Thesis:
     <a href="https://github.com/2Groza/MPhil_Thesis/blob/main/MPhil_Thesis.pdf">Toward Practical Deep Reinforcement Learning: Sample-Efficient Self-Supervised Continuous Control</a><br>
@@ -34,7 +34,7 @@ Education
   <p class="item_desc"></p>
   
   
-<span style="font-weight: bold;">B.Sc., School of Physics & Yuanpei College, Peking University, Jul.2018.<br>
+<span style="font-weight: bold;"> 👨‍🎓 B.Sc., School of Physics & Yuanpei College, Peking University, Jul.2018.<br>
 </span>
 
 
