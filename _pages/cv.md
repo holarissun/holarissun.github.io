@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Hao Sun"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,14 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Applied Mathematics and Theoretical Physics, University of Cambridge, 2025 (expected)
+* M.S. in Information Engineering, MMLab, Hong Kong, 2021
+* B.S. in Physics (Yuanpei Honored Class), Peking University, Beijing, 2018
+
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2020: Applied Scientist Intern 
+  * Amazon
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
