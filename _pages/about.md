@@ -42,14 +42,10 @@ News
 🤝 _**I'm looking for internships for 2024. Please drop me an email if you find my research interesting. I'm also open to collaborations.**_
 
 🔥 (2023.9) Our work on offline prompt evaluation and optimization using inverse RL is <a href="https://arxiv.org/pdf/2309.06553.pdf">now online. </a><br>
-
-📰 (2023.2) 2 papers are accepted by AISTATS 2023.
-
-📰 (2022.9) 1 paper is accepted by NeurIPS 2022. 2 papers are presented at the FMDM workshop, and 2 papers are presented at the DeepRL workshop.
-
-📰 (2022.9) 1 paper is presented at the ICML 2022 DFUQ workshop.
-
-📰 (2022.1) 1 paper is accepted by ICLR 2022.
+📰 (2023.2) 2 papers are accepted by AISTATS 2023. <br>
+📰 (2022.9) 1 paper is accepted by NeurIPS 2022. 2 papers are presented at the FMDM workshop, and 2 papers are presented at the DeepRL workshop. <br>
+📰 (2022.9) 1 paper is presented at the ICML 2022 DFUQ workshop. <br>
+📰 (2022.1) 1 paper is accepted by ICLR 2022. <br>
 
 
 <!--
