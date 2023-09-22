@@ -41,6 +41,8 @@ News
 ======
 🤝 _**I'm looking for internships for 2024. Please drop me an email if you find my research interesting. I'm also open to collaborations.**_
 
+🙌 (2023.9) 2 papers are accepted by NeurIPS 2023. <br>
+🔥 (2023.9) I'm honored to share my experience and ideas with Kuaishou Research in a talk titled "Reinforcement Learning in the Era of LLMs". <be> <a href="https://holarissun.github.io/files/RLHF_Kuai_final.pdf"> slides online </a>
 🔥 (2023.9) Our work on offline prompt evaluation and optimization using inverse RL is <a href="https://arxiv.org/pdf/2309.06553.pdf">now online. </a><br>
 📰 (2023.2) 2 papers are accepted by AISTATS 2023. <br>
 📰 (2022.9) 1 paper is accepted by NeurIPS 2022. 2 papers are presented at the FMDM workshop, and 2 papers are presented at the DeepRL workshop. <br>
