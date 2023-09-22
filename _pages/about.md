@@ -16,6 +16,7 @@ redirect_from:
 - **Uncertainty Quantification** (2022-); **Data-Centric Off-Policy Evaluation** (2022-); 
 - **Interpretable RL**(2023-); **RL in Language Models.** (2023-)
 
+🤝 I'm open to potential collaborations. Please kindly drop me an email for a chat. And let us push RL closer to genuine general intelligence.
 
 
 Education
@@ -39,7 +40,7 @@ Education
 
 News
 ======
-🤝 _**I'm looking for internships for 2024. Please drop me an email if you find my research interesting. I'm also open to collaborations.**_
+🤝 _**I'm looking for internships for 2024. Please drop me an email if you find my research interesting.**_
 
 🙌 (2023.9) 2 papers are accepted by NeurIPS 2023. <br>
 🔥 (2023.9) I'm honored to share my experience and ideas with Kuaishou Research in a talk titled "Reinforcement Learning in the Era of LLMs". <be> <a href="https://holarissun.github.io/files/RLHF_Kuai_final.pdf"> slides online </a>  <br>
