@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-🚀 I am a PhD student at the University of Cambridge, supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Prof. Mihaela van der Schaar</a>. Previously I received my M.Phil. degree from MMLab@CUHK, advised by <a href="http://dahua.me/">Prof. Dahua Lin</a> and <a href="http://bzhou.ie.cuhk.edu.hk/">Prof. Bolei Zhou</a>; I received my Bachelor of Science degree from Yuanpei Honor Program, Peking University. I also got a double degree in Management from Guanghua School, Peking University. I was a research assistant at the LCDM group@UIUC.
+🚀 I am a PhD student at the University of Cambridge, supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Prof. Mihaela van der Schaar</a>. During my M.Phil. study at MMLab@CUHK, I was advised by <a href="http://dahua.me/">Prof. Dahua Lin</a> and <a href="http://bzhou.ie.cuhk.edu.hk/">Prof. Bolei Zhou</a>; I received my BSc in Physics from the Yuanpei Honor Program, at Peking University, and a BSc from the Guanghua School of Management, at Peking University. My undergrad thesis was advised by <a href="https://zhouchenlin.github.io/">Prof. Zhouchen Lin</a>.
+I worked as an RA at the LCDM group@UIUC.
 
 🤖️ I believe **Reinforcement Learning** is a vital part of the solution for AGI. My previous work on deep reinforcement learning is motivated by practical applications like robotics, healthcare, finance, and large language models. My research keywords during the past 4 years include:
 - RL via Supervised Learning (2020-); Goal-Conditioned RL (2020-)
