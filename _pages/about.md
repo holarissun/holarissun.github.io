@@ -20,6 +20,24 @@ redirect_from:
 🤝 I'm open to collaborations. Just drop me an email if you find my work interesting. Let us push RL closer to genuine general intelligence!
 
 
+
+
+News
+======
+📎📍 _**I'm looking for internships for 2024. Please drop me an email if you find my research interesting.**_
+
+🔥 (2023.9) Our work on offline prompt evaluation and optimization using inverse RL is <a href="https://arxiv.org/pdf/2309.06553.pdf">now online. </a><br>
+🎉 (2023.9) 2 papers are accepted by NeurIPS 2023. <br>
+💬 (2023.9) I'm honored to share my experience and ideas with Kuaishou Research in a talk titled "Reinforcement Learning in the Era of LLMs". <be> <a href="https://holarissun.github.io/files/RLHF_Kuai_final.pdf"> slide is online </a>  <br>
+📄 (2023.2) 2 papers are accepted by AISTATS 2023. <br>
+💬 (2022.11) I'm honored to share my experience and ideas with HW Cloud Research through a talk on value-based DRL. <be> <a href="https://sites.google.com/view/rewardshaping"> slide is online </a>  <br>
+📄 (2022.9) 1 paper is accepted by NeurIPS 2022. 2 papers are presented at the FMDM workshop, and 2 papers are presented at the DeepRL workshop. <br>
+📄 (2022.9) 1 paper is presented at the ICML 2022 DFUQ workshop. <br>
+📄 (2022.1) 1 paper is accepted by ICLR 2022. <br>
+
+
+<!--
+
 Education
 ======
  <span style="font-weight: bold;"> 💪 Ph.D., van der Schaar Lab, University of Cambridge, Jun.2025 (expected)<br>
@@ -39,23 +57,6 @@ Education
 <span style="font-weight: bold;"> 👨‍🎓 B.Sc., School of Physics & Yuanpei College, Peking University, Jul.2018.<br>
 </span>
 
-News
-======
-📎📍 _**I'm looking for internships for 2024. Please drop me an email if you find my research interesting.**_
 
-🔥 (2023.9) Our work on offline prompt evaluation and optimization using inverse RL is <a href="https://arxiv.org/pdf/2309.06553.pdf">now online. </a><br>
-🎉 (2023.9) 2 papers are accepted by NeurIPS 2023. <br>
-💬 (2023.9) I'm honored to share my experience and ideas with Kuaishou Research in a talk titled "Reinforcement Learning in the Era of LLMs". <be> <a href="https://holarissun.github.io/files/RLHF_Kuai_final.pdf"> slide is online </a>  <br>
-📄 (2023.2) 2 papers are accepted by AISTATS 2023. <br>
-💬 (2022.11) I'm honored to share my experience and ideas with HW Cloud Research through a talk on value-based DRL. <be> <a href="https://sites.google.com/view/rewardshaping"> slide is online </a>  <br>
-📄 (2022.9) 1 paper is accepted by NeurIPS 2022. 2 papers are presented at the FMDM workshop, and 2 papers are presented at the DeepRL workshop. <br>
-📄 (2022.9) 1 paper is presented at the ICML 2022 DFUQ workshop. <br>
-📄 (2022.1) 1 paper is accepted by ICLR 2022. <br>
-
-
-<!--
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. 
 I worked as an RA at the LCDM group@UIUC. I used to work on cosmology gravitational lensing in Prof.  and Ultracold atom during my undergrad research.
 -->
