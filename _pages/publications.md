@@ -15,7 +15,7 @@ author_profile: true
 
 ### [NeurIPS 2023] Accountable Batched Control with Decision Corpus  <a href=" "> [Paper (Soon)] </a><a href=" "> [Code (Soon)] </a>
 
-*Hao Sun, Alihan Hüyük, Daniel Jarret, Mihaela van der Schaar*
+*Hao Sun, Alihan Hüyük, Daniel Jarrett, Mihaela van der Schaar*
 
 - We introduce a latent space decomposition approach to enhance interpretability in the batched control (Offline-RL).
 
