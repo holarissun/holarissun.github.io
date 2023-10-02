@@ -20,14 +20,14 @@ author_profile: true
 - We introduce a latent space decomposition approach to enhance interpretability in the batched control (Offline-RL).
 
 
-### [NeurIPS 2023] DAUC: a Density-based Approach for Uncertainty Categorization  <a href="https://arxiv.org/abs/2209.07288"> [Paper (To Be Updated)] </a><a href="https://anonymous.4open.science/r/DAUX-CBBF"> [Code (Soon)] </a>
+### [NeurIPS 2023] DAUC: a Density-based Approach for Uncertainty Categorization  <a href="https://arxiv.org/pdf/2207.05161.pdf"> [Paper (To Be Updated)] </a><a href="https://anonymous.4open.science/r/DAUX-CBBF"> [Code (Soon)] </a>
 
 *Hao Sun^, Boris van Breugel^, Jonathan Crabbe, Nabeel Seedat, Mihaela van der Schaar*
 
 - We propose a density-based approach to classify and explain the source of uncertainty.
 
 
-### [NeurIPS 2022] Exploiting Reward Shifting in Value-Based DRL  <a href="https://arxiv.org/abs/2209.07288"> [Paper] </a><a href="https://github.com/2Groza/RewardShifting"> [Code] </a>
+### [NeurIPS 2022] Exploiting Reward Shifting in Value-Based DRL  <a href="https://arxiv.org/pdf/2209.07288.pdf"> [Paper] </a><a href="https://github.com/2Groza/RewardShifting"> [Code] </a>
 
 *Hao Sun, Lei Han, Rui Yang, Xiaoteng Ma, Jian Guo, Bolei Zhou*
 
