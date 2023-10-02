@@ -12,6 +12,21 @@ author_profile: true
 
 
 ## Conference
+
+### [NeurIPS 2023] Accountable Batched Control with Decision Corpus  <a href=" "> [Paper (Soon)] </a><a href=" "> [Code (Soon)] </a>
+
+*Hao Sun, Alihan Hüyük, Daniel Jarret, Mihaela van der Schaar*
+
+- We introduce a latent space decomposition approach to enhance interpretability in the batched control (Offline-RL).
+
+
+### [NeurIPS 2023] DAUC: a Density-based Approach for Uncertainty Categorization  <a href="https://arxiv.org/abs/2209.07288"> [Paper (To Be Updated)] </a><a href="https://anonymous.4open.science/r/DAUX-CBBF"> [Code (Soon)] </a>
+
+*Hao Sun^, Boris van Breugel^, Jonathan Crabbe, Nabeel Seedat, Mihaela van der Schaar*
+
+- We propose a density-based approach to classify and explain the source of uncertainty.
+
+
 ### [NeurIPS 2022] Exploiting Reward Shifting in Value-Based DRL  <a href="https://arxiv.org/abs/2209.07288"> [Paper] </a><a href="https://github.com/2Groza/RewardShifting"> [Code] </a>
 
 *Hao Sun, Lei Han, Rui Yang, Xiaoteng Ma, Jian Guo, Bolei Zhou*
@@ -42,9 +57,3 @@ author_profile: true
 - Supervised Learning can be used to solve goal-conditioned RL tasks.
 
 
-## Workshop
-
-### [ICML 2022 DFUQ] DAUX: a Density-based Approach for Uncertainty eXplanations <a href="https://arxiv.org/abs/2207.05161"> [Paper] </a><a href="https://anonymous.4open.science/r/DAUX-CBBF"> [Code] </a>
-
-*Hao Sun^, Boris van Breugel^, Jonathan Crabbe, Nabeel Seedat, Mihaela van der Schaar*
-- We propose a density-based approach to classify uncertain examples.
