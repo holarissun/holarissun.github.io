@@ -26,8 +26,10 @@ News
 ======
 📎📍 _**I'm looking for internships for 2024. Please drop me an email if you find my research interesting.**_
 
+💡 (2023.10) I wrote a blog to share my perspective as an RL researcher in the Era of LLMs. [A Crash Introduction to RL in the Era of LLMs: What is Essential, RLHF, Prompting, and Beyond.
+](https://holaris.notion.site/A-Crash-Introduction-to-RL-in-the-Era-of-LLMs-What-is-Essential-RLHF-Prompting-and-Beyond-cbe9af5aa722488b9aade4de6ab9c565?pvs=4)
 🔥 (2023.9) Our work on offline prompt evaluation and optimization using inverse RL is <a href="https://arxiv.org/pdf/2309.06553.pdf">now online. </a><br>
-🎉 (2023.9) 2 papers are accepted by NeurIPS 2023. <br>
+📄 (2023.9) 2 papers are accepted by NeurIPS 2023. <br>
 💬 (2023.9) I'm honored to share my experience and ideas with Kuaishou Research in a talk titled "Reinforcement Learning in the Era of LLMs". <be> <a href="https://holarissun.github.io/files/RLHF_Kuai_final.pdf"> slide is online </a>  <br>
 📄 (2023.2) 2 papers are accepted by AISTATS 2023. <br>
 💬 (2022.11) I'm honored to share my experience and ideas with HW Cloud Research through a talk on value-based DRL. <be> <a href="https://sites.google.com/view/rewardshaping"> slide is online </a>  <br>
