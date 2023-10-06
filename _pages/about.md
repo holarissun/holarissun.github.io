@@ -15,7 +15,7 @@ redirect_from:
 - RL via Supervised Learning (2020-); Goal-Conditioned RL (2020-)
 - Value-Based DRL (2021-); Offline RL (2021-); Optimism in Exploration (2021-); 
 - **Uncertainty Quantification** (2022-); **Data-Centric Off-Policy Evaluation** (2022-); 
-- **Interpretable RL**(2023-); **RL in Language Models.** (2023-)
+- **Interpretable RL** (2023-); **RL in Language Models.** (2023-)
 
 🤝 I'm open to collaborations. Just drop me an email if you find my work interesting. Let us push RL closer to genuine general intelligence!
 
@@ -26,7 +26,7 @@ News
 ======
 📎📍 _**I'm looking for internships for 2024. Please drop me an email if you find my research interesting.**_
 
-💡 (2023.10) I wrote a blog on *RL x LLM* to share my perspective as an RL researcher in the Era of LLMs. [A Crash Introduction to RL in the Era of LLMs: What is Essential, RLHF, Prompting, and Beyond.
+💡 (2023.10) I wrote a blog on *RL x LLM* to share my thoughts as an RL researcher in the Era of LLMs. [A Crash Introduction to RL in the Era of LLMs: What is Essential, RLHF, Prompting, and Beyond.
 ](https://holaris.notion.site/A-Crash-Introduction-to-RL-in-the-Era-of-LLMs-What-is-Essential-RLHF-Prompting-and-Beyond-cbe9af5aa722488b9aade4de6ab9c565?pvs=4) <br>
 🔥 (2023.9) Our work on offline prompt evaluation and optimization using inverse RL is <a href="https://arxiv.org/pdf/2309.06553.pdf">now online. </a><br>
 📄 (2023.9) 2 papers are accepted by NeurIPS 2023. <br>
