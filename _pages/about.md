@@ -26,7 +26,7 @@ News
 ======
 📎📍 _**I'm looking for internships for 2024. Please drop me an email if you find my research interesting.**_
 
-💡 (2023.10) I wrote a blog to share my perspective as an RL researcher in the Era of LLMs. [A Crash Introduction to RL in the Era of LLMs: What is Essential, RLHF, Prompting, and Beyond.
+💡 (2023.10) I wrote a blog on *RL x LLM* to share my perspective as an RL researcher in the Era of LLMs. [A Crash Introduction to RL in the Era of LLMs: What is Essential, RLHF, Prompting, and Beyond.
 ](https://holaris.notion.site/A-Crash-Introduction-to-RL-in-the-Era-of-LLMs-What-is-Essential-RLHF-Prompting-and-Beyond-cbe9af5aa722488b9aade4de6ab9c565?pvs=4) <br>
 🔥 (2023.9) Our work on offline prompt evaluation and optimization using inverse RL is <a href="https://arxiv.org/pdf/2309.06553.pdf">now online. </a><br>
 📄 (2023.9) 2 papers are accepted by NeurIPS 2023. <br>
