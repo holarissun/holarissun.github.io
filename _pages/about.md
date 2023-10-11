@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🚀 I am a PhD student at the University of Cambridge, supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Prof. Mihaela van der Schaar</a>. During my M.Phil. study at MMLab@CUHK, I was advised by <a href="http://dahua.me/">Prof. Dahua Lin</a> and <a href="http://bzhou.ie.cuhk.edu.hk/">Prof. Bolei Zhou</a>; I received my BSc in Physics from the Yuanpei Honor Program, at Peking University, and a BSc from the Guanghua School of Management, at Peking University. My undergrad thesis was advised by <a href="https://zhouchenlin.github.io/">Prof. Zhouchen Lin</a>.
+🚀 I am a second-last-year PhD student at the University of Cambridge, supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Prof. Mihaela van der Schaar</a>. During my M.Phil. study at MMLab@CUHK, I was advised by <a href="http://dahua.me/">Prof. Dahua Lin</a> and <a href="http://bzhou.ie.cuhk.edu.hk/">Prof. Bolei Zhou</a>; I received my BSc in Physics from the Yuanpei Honor Program, at Peking University, and a BSc from the Guanghua School of Management, at Peking University. My undergrad thesis was advised by <a href="https://zhouchenlin.github.io/">Prof. Zhouchen Lin</a>.
 
 
 🤖️ I believe **Reinforcement Learning** is a vital part of the solution for AGI. My previous work on deep reinforcement learning is motivated by practical applications like robotics, healthcare, finance, and large language models. My research keywords during the past 4 years include:
@@ -24,10 +24,8 @@ redirect_from:
 
 News
 ======
-📎📍 _**I'm looking for internships for 2024. Please drop me an email if you find my research interesting.**_
 
-💡 (2023.10) I wrote a blog on *RL x LLM* to share my thoughts as an RL researcher in the Era of LLMs. [A Crash Introduction to RL in the Era of LLMs: What is Essential, RLHF, Prompting, and Beyond.
-](https://holaris.notion.site/A-Crash-Introduction-to-RL-in-the-Era-of-LLMs-What-is-Essential-RLHF-Prompting-and-Beyond-cbe9af5aa722488b9aade4de6ab9c565?pvs=4) <br>
+💡 (2023.10) I wrote <a href="https://arxiv.org/abs/2310.06147">an article </a> on *RL x LLM* to share my thoughts as an RL researcher in the Era of LLMs. <br>
 🔥 (2023.9) Our work on offline prompt evaluation and optimization using inverse RL is <a href="https://arxiv.org/pdf/2309.06553.pdf">now online. </a><br>
 📄 (2023.9) 2 papers are accepted by NeurIPS 2023. <br>
 💬 (2023.9) I'm honored to share my experience and ideas with Kuaishou Research in a talk titled "Reinforcement Learning in the Era of LLMs". <be> <a href="https://holarissun.github.io/files/RLHF_Kuai_final.pdf"> slide is online </a>  <br>
