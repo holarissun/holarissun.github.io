@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-🚀 I am a second-last-year PhD student at the University of Cambridge, supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Prof. Mihaela van der Schaar</a>. During my M.Phil. study at MMLab@CUHK, I was advised by <a href="http://dahua.me/">Prof. Dahua Lin</a> and <a href="http://bzhou.ie.cuhk.edu.hk/">Prof. Bolei Zhou</a>; I received my BSc in Physics from the Yuanpei Honor Program, at Peking University, and a BSc from the Guanghua School of Management, at Peking University. My undergrad thesis was advised by <a href="https://zhouchenlin.github.io/">Prof. Zhouchen Lin</a>.
+🚀 I am a penultimate year PhD student at the University of Cambridge, supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Prof. Mihaela van der Schaar</a>. During my M.Phil. study at MMLab@CUHK, I was advised by <a href="http://dahua.me/">Prof. Dahua Lin</a> and <a href="http://bzhou.ie.cuhk.edu.hk/">Prof. Bolei Zhou</a>; I received my BSc in Physics from the Yuanpei Honor Program, at Peking University, and a BSc from the Guanghua School of Management, at Peking University. My undergrad thesis was advised by <a href="https://zhouchenlin.github.io/">Prof. Zhouchen Lin</a>.
 
 
-🤖️ I believe **Reinforcement Learning** is a vital part of the solution for AGI. My previous work on deep reinforcement learning is motivated by practical applications like robotics, healthcare, finance, and large language models. My research keywords during the past 4 years include:
+🤖️ I believe **Reinforcement Learning** is a vital component of the solution for achieving AGI. My previous work on deep reinforcement learning is motivated by practical applications like robotics, healthcare, finance, and large language models. My research keywords during the past 4 years include:
 - RL via Supervised Learning (2020-); Goal-Conditioned RL (2020-)
 - Value-Based DRL (2021-); Offline RL (2021-); Optimism in Exploration (2021-); 
 - **Uncertainty Quantification** (2022-); **Data-Centric Off-Policy Evaluation** (2022-); 
 - **Interpretable RL** (2023-); **RL in Language Models.** (2023-)
 
-🤝 I'm open to collaborations. Just drop me an email if you find my work interesting. Let us push RL closer to genuine general intelligence!
+🤝 I'm open to collaborations. Please drop me an email if you find my work interesting. Let us push RL closer to genuine general intelligence!
 
 
 
@@ -25,9 +25,9 @@ redirect_from:
 News
 ======
 
-💡 (2023.10) I wrote <a href="https://arxiv.org/abs/2310.06147">an article </a> on *RL x LLM* to share my thoughts as an RL researcher in the Era of LLMs. <br>
-🔥 (2023.9) Our work on offline prompt evaluation and optimization using inverse RL is <a href="https://arxiv.org/pdf/2309.06553.pdf">now online. </a><br>
-📄 (2023.9) 2 papers are accepted by NeurIPS 2023. <br>
+💡 (2023.10) I wrote <a href="https://arxiv.org/abs/2310.06147">an article </a> on **RL x LLM** to share my thoughts as an RL researcher in the Era of LLMs. <br>
+🔥 (2023.9) Our work on offline prompt evaluation and optimization using **Inverse RL** is <a href="https://arxiv.org/pdf/2309.06553.pdf">now online. </a><br>
+📄 (2023.9) 2 papers are accepted by NeurIPS 2023. I'm looking forward to the reunion in NOLA! <br>
 💬 (2023.9) I'm honored to share my experience and ideas with Kuaishou Research in a talk titled "Reinforcement Learning in the Era of LLMs". <be> <a href="https://holarissun.github.io/files/RLHF_Kuai_final.pdf"> slide is online </a>  <br>
 📄 (2023.2) 2 papers are accepted by AISTATS 2023. <br>
 💬 (2022.11) I'm honored to share my experience and ideas with HW Cloud Research through a talk on value-based DRL. <be> <a href="https://sites.google.com/view/rewardshaping"> slide is online </a>  <br>
