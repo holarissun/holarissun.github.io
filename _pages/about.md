@@ -24,15 +24,14 @@ redirect_from:
 
 News
 ======
-
-💡 (2023.10) I wrote <a href="https://arxiv.org/abs/2310.06147">an article </a> on **RL x LLM** to share my thoughts as an RL researcher in the Era of LLMs. <br>
-🔥 (2023.9) Our work on offline prompt evaluation and optimization using **Inverse RL** is <a href="https://arxiv.org/pdf/2309.06553.pdf">now online. </a><br>
-📄 (2023.9) 2 papers are accepted by NeurIPS 2023. I'm looking forward to the reunion in NOLA! <br>
+🔥 (2023.10) Prompt-OIRL is selected as an **oral presentation** at the NeurIPS 2023 ENLSP workshop! <br>
+💡 (2023.10) I wrote <a href="https://arxiv.org/abs/2310.06147">an article </a> on **RLHF** to share my thoughts as an RL researcher in the Era of LLMs. <br>
+📄 (2023.9) Our work **Prompt-OIRL** on offline prompt evaluation and optimization using IRL is <a href="https://arxiv.org/pdf/2309.06553.pdf">online. </a><br>
+📄 (2023.9) 2 papers are accepted by NeurIPS 2023. I'm looking forward to the reunion in New Orleans! <br>
 💬 (2023.9) I'm honored to share my experience and ideas with Kuaishou Research in a talk titled "Reinforcement Learning in the Era of LLMs". <be> <a href="https://holarissun.github.io/files/RLHF_Kuai_final.pdf"> slide is online </a>  <br>
 📄 (2023.2) 2 papers are accepted by AISTATS 2023. <br>
 💬 (2022.11) I'm honored to share my experience and ideas with HW Cloud Research through a talk on value-based DRL. <be> <a href="https://sites.google.com/view/rewardshaping"> slide is online </a>  <br>
 📄 (2022.9) 1 paper is accepted by NeurIPS 2022. 2 papers are presented at the FMDM workshop, and 2 papers are presented at the DeepRL workshop. <br>
-📄 (2022.9) 1 paper is presented at the ICML 2022 DFUQ workshop. <br>
 📄 (2022.1) 1 paper is accepted by ICLR 2022. <br>
 
 
