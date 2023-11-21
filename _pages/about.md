@@ -24,7 +24,7 @@ redirect_from:
 
 News
 ======
-💬 (2023.11) I'm thrilled to share my thoughts on **RLHF** with the CoAI group, THU. <be> <a href="https://holarissun.github.io/files/RLHF_Nov.pdf"> slide is online </a> <br>
+💬 (2023.11) I'm thrilled to share my thoughts on **RLHF** with the CoAI group, THU. <a href="https://holarissun.github.io/files/RLHF_Nov.pdf"> slide is online </a> <br>
 📄 (2023.10) Prompt-OIRL is selected as an **oral presentation** at the NeurIPS 2023 ENLSP workshop! <br>
 📄 (2023.10) I wrote <a href="https://arxiv.org/abs/2310.06147">an article </a> on **RLHF** to share my thoughts as an RL researcher in the Era of LLMs. <br>
 📄 (2023.9) Our work **Prompt-OIRL** on offline prompt evaluation and optimization using IRL is <a href="https://arxiv.org/pdf/2309.06553.pdf">online. </a><br>
