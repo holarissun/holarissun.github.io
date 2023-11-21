@@ -31,7 +31,7 @@ News
 📄 (2023.9) **2 papers** are accepted by NeurIPS 2023. I'm looking forward to the reunion in New Orleans! <br>
 💬 (2023.9) I'm honored to share my experience and ideas with Kuaishou Research in a talk titled "Reinforcement Learning in the Era of LLMs". <be> <a href="https://holarissun.github.io/files/RLHF_Kuai_final.pdf"> slide is online </a>  <br>
 📄 (2023.2) **2 papers** are accepted by AISTATS 2023. <br>
-💬 (2022.11) I'm honored to share my experience and ideas with HW Cloud Research through a talk on value-based DRL. <be> <a href="https://sites.google.com/view/rewardshaping"> slide is online </a>  <br>
+💬 (2022.11) I'm honored to share my experience and ideas with HW Cloud Research through a talk on value-based DRL. <a href="https://sites.google.com/view/rewardshaping"> slide is online </a>  <br>
 📄 (2022.9) **1 paper** is accepted by NeurIPS 2022. 2 papers are presented at the FMDM workshop, and 2 papers are presented at the DeepRL workshop. <br>
 📄 (2022.1) **1 paper** is accepted by ICLR 2022. <br>
 
