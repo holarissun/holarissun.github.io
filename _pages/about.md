@@ -24,11 +24,12 @@ redirect_from:
 
 News
 ======
-💬 (2023.11) I'm thrilled to share my thoughts on **RLHF** with the CoAI group, THU. <a href="https://holarissun.github.io/files/RLHF_Nov.pdf"> slide is online </a> <br>
+💬 (2023.12) I'm thrilled to share my thoughts on **RLHF** with the Likelihood Lab. Discussion on **Nash-Learning from Human Feedback** is included! <a href="https://holarissun.github.io/files/RLHF_Dec.pdf"> slide is online </a> <br>
+💬 (2023.11) I'm thrilled to share my thoughts on **RLHF** with the CoAI group, THU. Discussion on the **problems of the Bradley-Terry Model** is included. <a href="https://holarissun.github.io/files/RLHF_Nov.pdf"> slide is online </a> <br>
 📄 (2023.10) Prompt-OIRL is selected as an **oral presentation** at the NeurIPS 2023 ENLSP workshop! <br>
 📄 (2023.10) I wrote <a href="https://arxiv.org/abs/2310.06147">an article </a> on **RLHF** to share my thoughts as an RL researcher in the Era of LLMs. <br>
 📄 (2023.9) Our work **Prompt-OIRL** on offline prompt evaluation and optimization using IRL is <a href="https://arxiv.org/pdf/2309.06553.pdf">online. </a><br>
-📄 (2023.9) **2 papers** are accepted by NeurIPS 2023. I'm looking forward to the reunion in New Orleans! <br>
+📄 (2023.9) **2 papers** are accepted by NeurIPS 2023. <br>
 💬 (2023.9) I'm honored to share my experience and ideas with Kuaishou Research in a talk titled "Reinforcement Learning in the Era of LLMs". <a href="https://holarissun.github.io/files/RLHF_Kuai_final.pdf"> slide is online </a>  <br>
 📄 (2023.2) **2 papers** are accepted by AISTATS 2023. <br>
 💬 (2022.11) I'm honored to share my experience and ideas with HW Cloud Research through a talk on value-based DRL. <a href="https://sites.google.com/view/rewardshaping"> slide is online </a>  <br>
