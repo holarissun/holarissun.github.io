@@ -26,10 +26,11 @@ redirect_from:
 
 News
 ======
+📄 (2023.10) **1 paper** [Prompt-OIRL](https://arxiv.org/pdf/2309.06553.pdf) is accepted by ICLR 2024! It uses Inverse RL to Evaluate and Optimize Prompts for LLMs<br>
 💬 (2024.01) Invited talk on **RLHF** at the [Intuit AI Research Forum](https://www.intuit.com/technology/). <a href="https://holarissun.github.io/files/RLHF_Dec.pdf"> slide </a> <br>
 💬 (2023.12) Invited talk on **RLHF** at the [Likelihood Lab](http://www.maxlikelihood.cn/). Discussion on **Nash-Learning from Human Feedback** is included! <a href="https://holarissun.github.io/files/RLHF_Dec.pdf"> slide </a> <br>
 💬 (2023.11) Invited talk on **RLHF** at the [CoAI group, THU.](https://huggingface.co/thu-coai) Discussion on the **problems of the Bradley-Terry Model** is included. <a href="https://holarissun.github.io/files/RLHF_Nov.pdf"> slide  </a> <br>
-📄 (2023.10) Our **paper** [Prompt-OIRL](https://arxiv.org/pdf/2309.06553.pdf) is selected as an **oral presentation** at the NeurIPS 2023 ENLSP workshop! It uses Inverse RL to Evaluate and Optimize Prompts for LLMs<br>
+📄 (2023.10) Our **paper** [Prompt-OIRL](https://arxiv.org/pdf/2309.06553.pdf) is selected as an **oral presentation** at the NeurIPS 2023 ENLSP workshop!<br>
 📄 (2023.10) I wrote <a href="https://arxiv.org/abs/2310.06147">an article </a> on **RLHF** to share my thoughts as an RL researcher in the Era of LLMs. <br>
 📄 (2023.9) **2 papers** on [Interpretable Offline RL](https://arxiv.org/abs/2310.07747) and [Interpretable Uncertainty Quantification](https://arxiv.org/abs/2207.05161) are accepted by NeurIPS 2023. <br>
 💬 (2023.9) Invited talk on **"Reinforcement Learning in the Era of LLMs"** at [Kuaishou Research](https://usrdc.kuaishou.com/). <a href="https://holarissun.github.io/files/RLHF_Kuai_final.pdf"> slide is online </a>  <br>
