@@ -26,7 +26,7 @@ redirect_from:
 
 News
 ======
-📄 (2023.10) **1 paper** [Prompt-OIRL](https://arxiv.org/pdf/2309.06553.pdf) is accepted by ICLR 2024! It uses Inverse RL to Evaluate and Optimize Prompts for LLMs<br>
+📄 (2024.01) **1 paper** [Prompt-OIRL](https://arxiv.org/pdf/2309.06553.pdf) is accepted by ICLR 2024! It uses Inverse RL to Evaluate and Optimize Prompts for LLMs<br>
 💬 (2024.01) Invited talk on **RLHF** at the [Intuit AI Research Forum](https://www.intuit.com/technology/). <a href="https://holarissun.github.io/files/RLHF_Dec.pdf"> slide </a> <br>
 💬 (2023.12) Invited talk on **RLHF** at the [Likelihood Lab](http://www.maxlikelihood.cn/). Discussion on **Nash-Learning from Human Feedback** is included! <a href="https://holarissun.github.io/files/RLHF_Dec.pdf"> slide </a> <br>
 💬 (2023.11) Invited talk on **RLHF** at the [CoAI group, THU.](https://huggingface.co/thu-coai) Discussion on the **problems of the Bradley-Terry Model** is included. <a href="https://holarissun.github.io/files/RLHF_Nov.pdf"> slide  </a> <br>
