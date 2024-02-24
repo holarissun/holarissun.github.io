@@ -16,7 +16,7 @@ redirect_from:
 - **Uncertainty Quantification** (2022-); **Data-Centric Off-Policy Evaluation** (2022-);
 - Value-Based Deep-RL (2021-); Offline RL (2021-); Optimism in Exploration (2021-); 
 - Continuous Control via Supervised Learning (2020-); Goal-Conditioned RL (2020-)
-- **RL in Robotics (2019-)**
+- **RL in Robotics** (2019-)
 
 
 🤝 I'm open to collaborations. Please drop me an email if you find my work interesting. Let us push RL closer to genuine general intelligence!
