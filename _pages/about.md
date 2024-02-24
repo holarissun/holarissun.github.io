@@ -11,7 +11,7 @@ redirect_from:
 🚀 I am a penultimate year PhD student at the University of Cambridge, supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Prof. Mihaela van der Schaar</a>. During my M.Phil. study at MMLab@CUHK, I was advised by <a href="http://dahua.me/">Prof. Dahua Lin</a> and <a href="http://bzhou.ie.cuhk.edu.hk/">Prof. Bolei Zhou</a>; I received my BSc in Physics from the Yuanpei Honor Program, at Peking University, and a BSc from the Guanghua School of Management, at Peking University. My undergrad thesis was advised by <a href="https://zhouchenlin.github.io/">Prof. Zhouchen Lin</a>.
 
 
-🤖️ I believe **Reinforcement Learning** is a vital component of the solution for achieving AGI. My previous work on deep reinforcement learning is motivated by reality-centric applications like robotics, healthcare, finance, and large language models. My research keywords during the past years include:
+🤖️ I believe **Reinforcement Learning** is a vital component of the solution for achieving AGI. My previous work on deep reinforcement learning is motivated by reality-centric applications like **robotics, healthcare, finance, and large language models**. My research keywords during the past years include:
 - **RL in Language Models.** (2023-); **Interpretable RL** (2023-);
 - **Uncertainty Quantification** (2022-); **Data-Centric Off-Policy Evaluation** (2022-);
 - Value-Based Deep-RL (2021-); Offline RL (2021-); Optimism in Exploration (2021-); 
@@ -26,7 +26,7 @@ redirect_from:
 
 News
 ======
-📄 (2024.01) **2 RL+LLM papers** are online! [ABC](https://arxiv.org/pdf/2402.00782.pdf) uses the attention mechanism to solve the credit assignment problem in RLHF; [RATP](https://arxiv.org/pdf/2402.07812.pdf) uses MCTS to enhance the reasoning ability of LLMs with external documents<br>
+📄 (2024.02) **2 RL+LLM papers** are online! [ABC](https://arxiv.org/pdf/2402.00782.pdf) uses the attention mechanism to solve the credit assignment problem in RLHF; [RATP](https://arxiv.org/pdf/2402.07812.pdf) uses MCTS to enhance the reasoning ability of LLMs with external documents<br>
 📄 (2024.01) **1 RL+LLM paper** [Prompt-OIRL](https://arxiv.org/pdf/2309.06553.pdf) is accepted by ICLR 2024! It uses Inverse RL to Evaluate and Optimize Prompts for LLMs<br>
 💬 (2024.01) Invited talk on **RLHF** at the [Intuit AI Research Forum](https://www.intuit.com/technology/). <a href="https://holarissun.github.io/files/RLHF_Dec.pdf"> slide </a> <br>
 💬 (2023.12) Invited talk on **RLHF** at the [Likelihood Lab](http://www.maxlikelihood.cn/). Discussion on **Nash-Learning from Human Feedback** is included! <a href="https://holarissun.github.io/files/RLHF_Dec.pdf"> slide </a> <br>
