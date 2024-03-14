@@ -26,6 +26,7 @@ redirect_from:
 
 News
 ======
+💬 (2024.03) **Prompt-OIRL** and **RATP** are featured at the [Inspiration Exchange](https://www.vanderschaar-lab.com/engagement-sessions/inspiration-exchange/), recording is <a href="https://www.youtube.com/watch?v=NYYYbQ_EN30&ab_channel=vanderSchaarLab"> online </a>. <br>
 📄 (2024.02) **2 RL+LLM papers** are online! [ABC](https://arxiv.org/pdf/2402.00782.pdf) uses the attention mechanism to solve the credit assignment problem in RLHF; [RATP](https://arxiv.org/pdf/2402.07812.pdf) uses MCTS to enhance the reasoning ability of LLMs with external documents<br>
 📄 (2024.01) **1 RL+LLM paper** [Prompt-OIRL](https://arxiv.org/pdf/2309.06553.pdf) is accepted by ICLR 2024! It uses Inverse RL to Evaluate and Optimize Prompts for LLMs<br>
 💬 (2024.01) Invited talk on **RLHF** at the [Intuit AI Research Forum](https://www.intuit.com/technology/). <a href="https://holarissun.github.io/files/RLHF_Dec.pdf"> slide </a> <br>
