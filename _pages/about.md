@@ -12,7 +12,7 @@ redirect_from:
 
 
 🤖️ I believe **Reinforcement Learning** is a vital component of the solution for achieving AGI. My previous work on deep reinforcement learning is motivated by reality-centric applications like **robotics🦾, healthcare💉, finance📈, and large language models🧠**. My research keywords during the past years include:
-- **RL in Language Models.** (2023-); **Interpretable RL** (2023-);
+- **RL in Language Models.** (2023-); **Interpretable RL** (2023-); **Inverse RL** (2021-); 
 - **Uncertainty Quantification** (2022-); **Data-Centric Off-Policy Evaluation** (2022-);
 - Value-Based Deep-RL (2021-); Offline RL (2021-); Optimism in Exploration (2021-); 
 - Continuous Control via Supervised Learning (2020-); Goal-Conditioned RL (2020-)
@@ -26,6 +26,7 @@ redirect_from:
 
 News
 ======
+📄 (2024.03) I wrote <a href="https://arxiv.org/abs/2403.12017">an article </a> arguing that **Supervised Fine Tuning is Inverse Reinforcement Learning**! <br>
 💬 (2024.03) **Prompt-OIRL** and **RATP** are featured at the [Inspiration Exchange](https://www.vanderschaar-lab.com/engagement-sessions/inspiration-exchange/), recording is <a href="https://www.youtube.com/watch?v=NYYYbQ_EN30&ab_channel=vanderSchaarLab"> online </a>. <br>
 📄 (2024.02) **2 RL+LLM papers** are online! [ABC](https://arxiv.org/pdf/2402.00782.pdf) uses the attention mechanism to solve the credit assignment problem in RLHF; [RATP](https://arxiv.org/pdf/2402.07812.pdf) uses MCTS to enhance the reasoning ability of LLMs with external documents<br>
 📄 (2024.01) **1 RL+LLM paper** [Prompt-OIRL](https://arxiv.org/pdf/2309.06553.pdf) is accepted by ICLR 2024! It uses Inverse RL to Evaluate and Optimize Prompts for LLMs<br>
