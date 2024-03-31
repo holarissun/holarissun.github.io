@@ -12,21 +12,30 @@ author_profile: true
 
 ## Preprint
 
+### [RL x LLM] Supervised Fine-Tuning as Inverse Reinforcement Learning <a href="https://arxiv.org/pdf/2403.12017.pdf"> [Paper] </a>
+
+*__Hao Sun__*
+
+- In our work, **we question the efficacy of the preference-based datasets in LLM alignment**
+and explore various scenarios where alignment with expert demonstrations proves more realistic. 
+Drawing insights from inverse reinforcement learning and imitation learning, we introduce various approaches for
+divergence minimization in the LLM alignment tasks. Our analysis highlights the **mass-covering** and **mode-seeking**
+behaviors of these different approaches. Inclusively, we examine the **pros and cons of the classical supervised fine-tuning method, elaborating on scenarios where different methods shine.**
+
 ### [RL x LLM] Reinforcement Learning in the Era of LLMs: What is Essential? What is Needed? <a href="https://arxiv.org/pdf/2310.06147.pdf"> [Paper] </a>
 
 *__Hao Sun__*
 
 - (1) RLHF is online IRL rather than offline RL. (2) RLHF is better than SFT because imitation learning alleviates the compounding error problem. (3) Insight of RM can be generalized to other LLM applications except alignment. (4) RLHF is more challenging than conventional IRL due to action space dimensionality and reward sparsity. (5) The superiority of PPO in RLHF may originate from its stability.
 
-### [RL x LLM] Query-Dependent Prompt Evaluation and Optimization with Inverse RL <a href="https://arxiv.org/pdf/2309.06553.pdf"> [Paper] </a><a href="https://github.com/holarissun/Prompt-OIRL"> [Code] </a>
+
+## Conference
+
+### [ICLR 2024] Query-Dependent Prompt Evaluation and Optimization with Inverse RL <a href="https://arxiv.org/pdf/2309.06553.pdf"> [Paper] </a><a href="https://github.com/holarissun/Prompt-OIRL"> [Code] </a>
 
 *__Hao Sun__, Alihan Hüyük, Mihaela van der Schaar*
 
 - We propose Prompt-OIRL, showing that Inverse RL can be used for offline query-dependent prompt evaluation and optimization. It does not require interactions with the LLMs during learning yet achieves superior performance on arithmetic reasoning tasks.
-
-
-
-## Conference
 
 
 ### [NeurIPS 2023] Accountability in Offline Reinforcement Learning: Explaining Decisions with a Corpus of Examples <a href="https://arxiv.org/pdf/2310.07747.pdf"> [Paper] </a><a href=" "> [Code (Soon)] </a>
