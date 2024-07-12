@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-🚀 I am a penultimate year PhD student at the University of Cambridge, supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Prof. Mihaela van der Schaar</a>. During my M.Phil. study at MMLab@CUHK, I was advised by <a href="http://dahua.me/">Prof. Dahua Lin</a> and <a href="http://bzhou.ie.cuhk.edu.hk/">Prof. Bolei Zhou</a>; I received my BSc in Physics from the Yuanpei Honor Program, at Peking University, and a BSc from the Guanghua School of Management, at Peking University. My undergrad thesis was advised by <a href="https://zhouchenlin.github.io/">Prof. Zhouchen Lin</a>.
+🚀 Hi there, I am Hao Sun, a final year PhD student at the University of Cambridge supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Prof. Mihaela van der Schaar</a>. During my M.Phil. study at MMLab@CUHK, I was advised by <a href="http://dahua.me/">Prof. Dahua Lin</a> and <a href="http://bzhou.ie.cuhk.edu.hk/">Prof. Bolei Zhou</a>; I received my BSc in Physics from the Yuanpei Honor Program, at Peking University, and a BSc from the Guanghua School of Management, at Peking University. My undergrad thesis was advised by <a href="https://zhouchenlin.github.io/">Prof. Zhouchen Lin</a>.
 
 
 🤖️ I believe **Reinforcement Learning** is a vital component of the solution for achieving AGI. My previous work on deep reinforcement learning is motivated by reality-centric applications like **robotics🦾, healthcare💉, finance📈, and large language models🧠**. My research keywords during the past years include:
-- **RL in Language Models.** (2023-); **Interpretable RL** (2023-); **Inverse RL** (2021-); 
-- **Uncertainty Quantification** (2022-); **Data-Centric Off-Policy Evaluation** (2022-);
+- **(Inverse) RL in Language Models** (2023-); **Inverse RL** (2021-); **Interpretable RL** (2023-); 
+- **Uncertainty Quantification** (2022-); **Data-Centric Reward Modeling** (2022-);
 - Value-Based Deep-RL (2021-); Offline RL (2021-); Optimism in Exploration (2021-); 
 - Continuous Control via Supervised Learning (2020-); Goal-Conditioned RL (2020-)
 - **RL in Robotics** (2019-)
 
 
-🤝 I'm open to collaborations. Please drop me an email if you find my work interesting. Let us push RL closer to genuine general intelligence!
+🤝 I'm open to collaborations. Please drop me an email if you find my work interesting. Let us push RL closer to genuine general intelligence! Here are some topics I'm actively working on:
+- Inverse RL in Language Modeling: Alignment, Multi-Objective/Meta-Learn, Uncertainty
+- Data-Centric Perspective of Reward Modeling
 
 
 
