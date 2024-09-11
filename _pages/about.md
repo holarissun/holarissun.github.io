@@ -23,7 +23,7 @@ redirect_from:
 In my spare time, I am passionate about embracing nature. I'm a climber🧗, a snowboarder🏂, a skier⛷️ (slope id = email). I experience great fulfillment in exploring both the physical and intellectual worlds.
 
 🤝 I'm open to collaborations for more sparks of 'aha' moments. Please drop me an email if you find my work interesting. Let us push RL closer to superhuman intelligence! Here are some topics I'm actively working on:
-- Inverse RL in Language Modeling: Alignment, Multi-Objective/Meta-Learn, Uncertainty
+- **Inverse and Forward Alignment** in Language Modeling: Multi-Objective, Meta-Learn, Uncertainty
 - Data-Centric Perspective of **Reward Modeling**
 
 
