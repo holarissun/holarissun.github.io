@@ -11,7 +11,7 @@ redirect_from:
 🚀 Hi there, I am Hao Sun, a final year PhD student at the University of Cambridge supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Prof. Mihaela van der Schaar</a>. During my M.Phil. study at MMLab@CUHK, I was advised by <a href="http://dahua.me/">Prof. Dahua Lin</a> and <a href="http://bzhou.ie.cuhk.edu.hk/">Prof. Bolei Zhou</a>; I received my BSc in Physics from the Yuanpei Honor Program, at Peking University, and a BSc from the Guanghua School of Management, at Peking University. My undergrad thesis was advised by <a href="https://zhouchenlin.github.io/">Prof. Zhouchen Lin</a>.
 
 
-🤖️ I work in **Reinforcement Learning** and believe it provides the only way to *Superhuman Intelligence*. My previous work on reinforcement learning has been applied to reality-centric applications like **robotics🦾, healthcare💉, finance📈, and large language models🧠**. My research keywords during the past years include:
+🤖️ My research focuses on **Reinforcement Learning** and I believe it paves the only way to *Superhuman Intelligence*. My previous work on reinforcement learning has been applied to reality-centric applications like **robotics🦾, healthcare💉, finance📈, and large language models🧠**. My research keywords during the past years include:
 - **(Inverse) RL in Language Models** (2023-); **Inverse RL** (2021-); **Interpretable RL** (2023-); 
 - **Uncertainty Quantification** (2022-); **Data-Centric Reward Modeling** (2022-);
 - Value-Based Deep-RL (2021-); Offline RL (2021-); Optimism in Exploration (2021-); 
