@@ -19,9 +19,9 @@ redirect_from:
 - **RL in Robotics** (2019-)
 
 
-**(More About Me)** I love the scientific part of my research more than the engineering part. I deeply value the 'aha' moments in research and have great respect for studies that evoke such moments of insight. I firmly believe in Goodhart's Law: publications should never be the objective; they are merely byproducts of the pursuit of truth. Writing a paper is simply a way to share those joyful moments when we are sparked by inspiration. In my spare time, I am passionate about embracing nature. I'm a climber, a snowboarder, a skier (slope id = email). I find great fulfillment in exploring both the physical and intellectual worlds.
+🙋 **(More About Me)** I love the scientific part of my research more than the engineering part. I deeply value the 'aha' moments in research and have great respect for studies that evoke such moments of insight. I firmly believe in Goodhart's Law: publications should never be the objective; they are merely byproducts of the pursuit of truth. Writing a paper is simply a way to share those joyful moments when we are sparked by inspiration. In my spare time, I am passionate about embracing nature. I'm a climber, a snowboarder, a skier (slope id = email). I find great fulfillment in exploring both the physical and intellectual worlds.
 
-I'm open to collaborations for more sparks of 'aha' moments. Please drop me an email if you find my work interesting. Let us push RL closer to superhuman intelligence! Here are some topics I'm actively working on:
+🤝 I'm open to collaborations for more sparks of 'aha' moments. Please drop me an email if you find my work interesting. Let us push RL closer to superhuman intelligence! Here are some topics I'm actively working on:
 - Inverse RL in Language Modeling: Alignment, Multi-Objective/Meta-Learn, Uncertainty
 - Data-Centric Perspective of **Reward Modeling**
 
