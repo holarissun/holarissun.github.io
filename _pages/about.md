@@ -10,6 +10,7 @@ redirect_from:
 
 🚀 Hi there, I am Hao Sun, a final year PhD student at the University of Cambridge supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Prof. Mihaela van der Schaar</a>. During my M.Phil. study at MMLab@CUHK, I was advised by <a href="http://dahua.me/">Prof. Dahua Lin</a> and <a href="http://bzhou.ie.cuhk.edu.hk/">Prof. Bolei Zhou</a>; I received my BSc in Physics from the Yuanpei Honor Program, at Peking University, and a BSc from the Guanghua School of Management, at Peking University. My undergrad thesis was advised by <a href="https://zhouchenlin.github.io/">Prof. Zhouchen Lin</a>.
 
+**I am seeking faculty positions, research scientist roles, or postdoctoral opportunities starting in 2025.**
 
 🤖️ My research focuses on **Reinforcement Learning** and I believe it paves the only way to *Superhuman Intelligence*. My previous work on reinforcement learning has been applied to reality-centric applications like **robotics🦾, healthcare💉, finance📈, and large language models🧠**. My research keywords during the past years include:
 - **(Inverse) RL in Language Models** (2023-); **Inverse RL** (2021-); **Interpretable RL** (2023-); 
@@ -19,8 +20,8 @@ redirect_from:
 - **RL in Robotics** (2019-)
 
 
-🙋 **(More About Me)** I love the scientific part of my research more than the engineering part. I deeply value the 'aha' moments in research and have great respect for studies that evoke such moments of insight. I firmly believe in Goodhart's Law: publications should never be the objective; they are merely byproducts of the pursuit of truth. Writing a paper is simply a way to share those joyful moments when we are sparked by inspiration. 
-In my spare time, I am passionate about embracing nature. I'm a climber🧗, a snowboarder🏂, a skier⛷️ (slope id = email). I experience great fulfillment in exploring both the physical and intellectual worlds.
+🙋 **(More About Me)** I love the scientific part of my research more than the engineering part. I deeply value the 'aha' moments in research and have great respect for studies that evoke such moments of insight. I firmly believe in Goodhart's Law: publications should never be the goal but rather the byproduct of a genuine pursuit of truth. Writing a paper is a way to share the joyful moments of exploration. 
+In my spare time, I am passionate about embracing nature. I'm a climber🧗, a snowboarder🏂, a skier⛷️ (slope id = email). I find great fulfillment in exploring both the physical and intellectual worlds.
 
 🤝 I'm open to collaborations for more sparks of 'aha' moments. Please drop me an email if you find my work interesting. Let us push RL closer to superhuman intelligence! Here are some topics I'm actively working on:
 - **Inverse and Forward Alignment** in Language Modeling: Multi-Objective, Meta-Learn, Uncertainty
