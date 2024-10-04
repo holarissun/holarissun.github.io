@@ -10,34 +10,44 @@ redirect_from:
 
 🚀 Hi there, I am Hao Sun, a final year PhD student at the University of Cambridge supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Prof. Mihaela van der Schaar</a>. During my M.Phil. study at MMLab@CUHK, I was advised by <a href="http://dahua.me/">Prof. Dahua Lin</a> and <a href="http://bzhou.ie.cuhk.edu.hk/">Prof. Bolei Zhou</a>; I received my BSc in Physics from the Yuanpei Honor Program, at Peking University, and a BSc from the Guanghua School of Management, at Peking University. My undergrad thesis was advised by <a href="https://zhouchenlin.github.io/">Prof. Zhouchen Lin</a>.
 
-**I am seeking faculty positions, research scientist roles, and postdoctoral opportunities starting in 2025.**
+```
+ >> I am seeking research scientist roles, postdoctoral opportunities, and faculty positions starting in 2025.
+```
 
+### Recent Research Highlights
+Since June 2023, I started to use LLM as a demonstrative usecase in my reality-centric reinforcement learning (RL) research, I focused improving LLMs' general ability from an Inverse RL perspective. Some of my recent thoughts and research:
+  1. Any usage of LLM could be benefited from reward modeling and alignment. LLMs are only universal samplers without reward models, which enables inference time optimization and search.
+  2. There are two crucial parts in reward modeling: data and model. I study both from the perspective of Inverse RL. [Prompt-OIRL](https://arxiv.org/pdf/2309.06553.pdf) improves reasoning with reward models, [InverseRLignment](https://openreview.net/pdf/97e8ef1506b4477fd9dc41a76ea3257f65c66c5e.pdf) builds reward models from SFT (demonstration) data. [DataCOPE](https://openreview.net/forum?id=wg5y4AK6l7) studies when reward modeling is reliable. [ABC](https://arxiv.org/pdf/2402.00782.pdf) improves the credit assignment problem in reward modeling by providing dense feedback in generation. [RATP](https://arxiv.org/pdf/2402.07812.pdf) characterize general thought processes as MDP and use MCTS with reward models to improve them.
+  3. Our recent work reflected on reward modeling in alignment through an **order-consistency framework**. We provided the first asymptotic theory to justify the usage of Bradley-Terry models and classifiers in reward modeling, we conducted extensive experiments (at the order of 1e5) to verify our theoretical insights. (paper and code to be released soon)
+
+### Research Philosophy
+  - I'm trained to enjoy both the scientific discovery part and engineering part of researches --- both parts are equally important to me, and good research must isolate those two parts of gains. Philosophically, I believe **science is about denoising**, and finding the minimalism rule that explains every observation or the milimalism approach to solve a practical problem give me deep fulfillment. One of my faviorate film is The Theory of Everything, and fortunately I'm now doing my PhD at DAMTP, Cambridge --- where the true story happened. 
+  - To take a few examples in my research records: I introduced self-imitation as a strong approach to control [(PCHID)](https://proceedings.neurips.cc/paper_files/paper/2019/file/3891b14b5d8cce2fdd8dcdb4ded28f6d-Paper.pdf); highlighed Q-learning can solve continuous control efficiently [(ZOSPI)](https://arxiv.org/pdf/2006.06600); early termination and recurrent networks are sufficient for constrained-MDPs [(ETMDP)](https://arxiv.org/pdf/2107.04200); I introduce linear reward shifting as a powerful technique for exploration, exploitation, online and offline RL [(RewardShifting)](https://proceedings.neurips.cc/paper_files/paper/2022/file/f600d1a3f6a63f782680031f3ce241a7-Paper-Conference.pdf); I use tree-based reward models to denoise reward modeling research and enhance my scientific discovery, it is highly flexible and easily ensembled without heavy memory usage. 
+
+### Research Keywords
 🤖️ My research focuses on **Reinforcement Learning** and I believe it paves the only way to *Superhuman Intelligence*. My previous work on reinforcement learning has been applied to reality-centric applications like **robotics🦾, healthcare💉, finance📈, and large language models🧠**. My research keywords during the past years include:
 - **(Inverse) RL in Language Models** (2023-); **Inverse RL** (2021-); **Interpretable RL** (2023-); 
-- **Uncertainty Quantification** (2022-); **Data-Centric Reward Modeling** (2022-);
+- **Uncertainty Quantification** (2022-); **Off-Policy Evaluation and Reward Modeling** (2022-);
 - Value-Based Deep-RL (2021-); Offline RL (2021-); Optimism in Exploration (2021-); 
 - Continuous Control via Supervised Learning (2020-); Goal-Conditioned RL (2020-)
 - **RL in Robotics** (2019-)
 
 
-🙋 **(More About Me)** I love the scientific part of my research more than the engineering part. I deeply value the 'aha' moments in research and have great respect for studies that evoke such moments of insight. I firmly believe in Goodhart's Law: publications should never be the goal but rather the byproduct of a genuine pursuit of truth. Writing a paper is a way to share the joyful moments of exploration. 
-In my spare time, I am passionate about embracing nature. I'm a climber🧗, a snowboarder🏂, a skier⛷️ (slope id = email). I find great fulfillment in exploring both the physical and intellectual worlds.
-
-🤝 I'm open to collaborations for more sparks of 'aha' moments. Please drop me an email if you find my work interesting. Let us push RL closer to superhuman intelligence! Here are some topics I'm actively working on:
-- **Inverse and Forward Alignment** in Language Modeling: Multi-Objective, Meta-Learn, Uncertainty
-- Data-Centric Perspective of **Reward Modeling**
-
 
 News
 ======
+📄 (2024.09) [DataCOPE](https://openreview.net/forum?id=wg5y4AK6l7) is accepted by the Journal of Data-Centric Machine Learning Research (DMLR). <br>
+📄 (2024.08) Attending RLC at Amherst. Presenting [InverseRLignment](https://openreview.net/pdf/97e8ef1506b4477fd9dc41a76ea3257f65c66c5e.pdf) at the RL beyond reward workshop with a score 9. <br>
+📄 (2024.05) [InverseRLignment](https://openreview.net/pdf/97e8ef1506b4477fd9dc41a76ea3257f65c66c5e.pdf) is online, it **builds reward models from SFT data**. <br>
+📄 (2024.05) [ABC](https://arxiv.org/pdf/2402.00782.pdf) is accepted by ICML 2024. <br>
 📄 (2024.03) I wrote <a href="https://arxiv.org/abs/2403.12017">an article </a> arguing that **Supervised Fine Tuning is Inverse Reinforcement Learning**! <br>
 💬 (2024.03) **Prompt-OIRL** and **RATP** are featured at the [Inspiration Exchange](https://www.vanderschaar-lab.com/engagement-sessions/inspiration-exchange/), recording is <a href="https://www.youtube.com/watch?v=NYYYbQ_EN30&ab_channel=vanderSchaarLab"> online </a>. <br>
 📄 (2024.02) **2 RL+LLM papers** are online! [ABC](https://arxiv.org/pdf/2402.00782.pdf) uses the attention mechanism to solve the credit assignment problem in RLHF; [RATP](https://arxiv.org/pdf/2402.07812.pdf) uses MCTS to enhance the reasoning ability of LLMs with external documents<br>
 📄 (2024.01) **1 RL+LLM paper** [Prompt-OIRL](https://arxiv.org/pdf/2309.06553.pdf) is accepted by ICLR 2024! It uses Inverse RL to Evaluate and Optimize Prompts for LLMs<br>
 💬 (2024.01) Invited talk on **RLHF** at the [Intuit AI Research Forum](https://www.intuit.com/technology/). <a href="https://holarissun.github.io/files/RLHF_Dec.pdf"> slide </a> <br>
-💬 (2023.12) Invited talk on **RLHF** at the [Likelihood Lab](http://www.maxlikelihood.cn/). Discussion on **Nash-Learning from Human Feedback** is included! <a href="https://holarissun.github.io/files/RLHF_Dec.pdf"> slide </a> <br>
+💬 (2023.12) Invited talk on **RLHF** at the [Likelihood Lab](http://www.maxlikelihood.cn/) <a href="https://holarissun.github.io/files/RLHF_Dec.pdf"> slide </a> <br>
 💬 (2023.11) Invited talk on **RLHF** at the [CoAI group, THU.](https://huggingface.co/thu-coai) Discussion on the **problems of the Bradley-Terry Model** is included. <a href="https://holarissun.github.io/files/RLHF_Nov.pdf"> slide  </a> <br>
-📄 (2023.10) Our **paper** [Prompt-OIRL](https://arxiv.org/pdf/2309.06553.pdf) is selected as an **oral presentation** at the NeurIPS 2023 ENLSP workshop!<br>
+📄 (2023.10) [Prompt-OIRL](https://arxiv.org/pdf/2309.06553.pdf) is selected as an **oral presentation** at the NeurIPS 2023 ENLSP workshop!<br>
 📄 (2023.10) I wrote <a href="https://arxiv.org/abs/2310.06147">an article </a> on **RLHF** to share my thoughts as an RL researcher in the Era of LLMs. <br>
 📄 (2023.9) **2 papers** on [Interpretable Offline RL](https://arxiv.org/abs/2310.07747) and [Interpretable Uncertainty Quantification](https://arxiv.org/abs/2207.05161) are accepted by NeurIPS 2023. <br>
 💬 (2023.9) Invited talk on **"Reinforcement Learning in the Era of LLMs"** at [Kuaishou Research](https://usrdc.kuaishou.com/). <a href="https://holarissun.github.io/files/RLHF_Kuai_final.pdf"> slide is online </a>  <br>
@@ -45,6 +55,17 @@ News
 💬 (2022.11) Invited talk on value-based DRL at HW Cloud Research. <a href="https://sites.google.com/view/rewardshaping"> slide is online </a>  <br>
 📄 (2022.9) **1 paper** on [Value-Based DeepRL](https://proceedings.neurips.cc/paper_files/paper/2022/file/f600d1a3f6a63f782680031f3ce241a7-Paper-Conference.pdf) is accepted by NeurIPS 2022. 2 papers are presented at the FMDM workshop, and 2 papers are presented at the DeepRL workshop. <br>
 📄 (2022.1) **1 paper** on [Offline GCRL](https://arxiv.org/abs/2202.04478) is accepted by ICLR 2022. <be>
+
+
+
+🙋 More About Me
+----
+I love the scientific part of my research more than the engineering part. I deeply value the 'aha' moments in research and have great respect for studies that evoke such moments of insight. I firmly believe in Goodhart's Law: publications should never be the goal but rather the byproduct of a genuine pursuit of truth. Writing a paper is a way to share the joyful moments of exploration. 
+In my spare time, I am passionate about embracing nature. I'm a climber🧗, a (big mountain) snowboarder🏂 and pow-hunter🌊, a (all mountain) skier⛷️ (slope id = email). I find great fulfillment in exploring both the physical and intellectual worlds.
+
+🤝 I'm open to collaborations for more sparks of 'aha' moments. Please drop me an email if you find my work interesting. Let us push RL closer to superhuman intelligence! Here are some topics I'm actively working on:
+- **Inverse and Forward Alignment** in Language Modeling: Multi-Objective, Meta-Learn, Uncertainty
+- Data-Centric Perspective of **Reward Modeling**
 
 
 <a href="https://clustrmaps.com/site/1bysk"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=RtOCs2DxbgCleb2bwL7ZaU9kONDpyPNXGY_Guo_CtaM&cl=ffffff" /></a>
