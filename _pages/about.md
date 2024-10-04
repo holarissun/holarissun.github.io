@@ -11,7 +11,7 @@ redirect_from:
 🚀 Hi there! I am Hao Sun, a final year PhD student at the University of Cambridge supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Prof. Mihaela van der Schaar</a>, and I am working at the intersection of reinforcement learning (RL) and large language models (LLMs). During my M.Phil. study at MMLab@CUHK, I was advised by <a href="http://dahua.me/">Prof. Dahua Lin</a> and <a href="http://bzhou.ie.cuhk.edu.hk/">Prof. Bolei Zhou</a>; I received my BSc in Physics from the Yuanpei Honor Program, at Peking University, and a BSc from the Guanghua School of Management, at Peking University. My undergrad thesis was advised by <a href="https://zhouchenlin.github.io/">Prof. Zhouchen Lin</a>.
 
 
-<mark> I am seeking research scientist, postdoctoral, and faculty positions starting in 2025. </mark>
+<mark> I am seeking research scientist and academic positions starting in 2025. </mark>
 
 ### Recent Research Highlights
 Since June 2023, my work has focused on leverating LLMs as a key use case for my reality-centric RL research, particularly from an Inverse RL perspective. **I aim to enhance the general capabilities of LLMs through improved reward modeling and alignment**. Below are some of my recent insights and research contributions:
