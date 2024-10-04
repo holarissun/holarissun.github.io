@@ -8,24 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-🚀 Hi there! I am Hao Sun, a final year PhD student at the University of Cambridge supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Prof. Mihaela van der Schaar</a>, and I am working at the intersection of reinforcement learning (RL) and large language models (LLMs). During my M.Phil. study at MMLab@CUHK, I was advised by <a href="http://dahua.me/">Prof. Dahua Lin</a> and <a href="http://bzhou.ie.cuhk.edu.hk/">Prof. Bolei Zhou</a>; I received my BSc in Physics from the Yuanpei Honor Program, at Peking University, and a BSc from the Guanghua School of Management, at Peking University. My undergrad thesis was advised by <a href="https://zhouchenlin.github.io/">Prof. Zhouchen Lin</a>.
-
+🚀 **Hi there!** I am Hao Sun, a final-year Ph.D. student at the University of Cambridge, supervised by [Prof. Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/), working at the intersection of reinforcement learning (RL) and large language models (LLMs). During my M.Phil. study at [MMLab@CUHK](https://mmlab.ie.cuhk.edu.hk/), I was advised by Prof. Dahua Lin and Prof. Bolei Zhou. I hold a B.Sc. in Physics from the Yuanpei College at Peking University, and a B.Sc. from the Guanghua School of Management. My undergraduate thesis was supervised by Prof. Zhouchen Lin.
 
 <mark> I am seeking research scientist and academic positions starting in 2025. </mark>
 
 ### Recent Research Highlights
-Since June 2023, my work has focused on leveraging LLMs as a key use case for my reality-centric RL research, particularly from an Inverse RL perspective. **I aim to enhance the general capabilities of LLMs through improved reward modeling and alignment**. Below are some of my recent insights and research contributions:
-  1. Any LLM application can benefit from integrating reward models and alignment. Without reward models, LLMs can only function as universal samplers, but incorporating reward models enables **optimization** and **search** during inference.
-  2. There are two core components in reward modeling: data and model. My work studies both from an Inverse RL perspective: [Prompt-OIRL](https://arxiv.org/pdf/2309.06553.pdf) improves reasoning with reward models, [InverseRLignment](https://openreview.net/pdf/97e8ef1506b4477fd9dc41a76ea3257f65c66c5e.pdf) builds reward models from SFT (demonstration) data. [DataCOPE](https://openreview.net/forum?id=wg5y4AK6l7) studies when reward modeling is reliable. [ABC](https://arxiv.org/pdf/2402.00782.pdf) improves the credit assignment problem in reward modeling by providing dense rewards in generations. [RATP](https://arxiv.org/pdf/2402.07812.pdf) characterizes general thought processes as MDP and uses MCTS with reward models to improve them.
-  3. Our recent work introduces an **order-consistency framework** for reward modeling in alignment. We developed the first asymptotic theory to justify the use of Bradley-Terry models and classifiers in reward modeling and validated these insights through very large-scale experiments (with over 100,000 runs). The paper and accompanying code will be released soon.
+
+Since June 2023, my research has centered on leveraging LLMs as a key use case for reality-centric RL, particularly from an Inverse RL perspective. **My aim is to improve the general capabilities of LLMs through advanced reward modeling and alignment**. Some key insights and contributions include:
+- **Necessity of Alignment in Any Application of LLMs**: Any use of LLMs can be significantly enhanced through reward modeling and alignment. Without such models, LLMs function as universal samplers, but integrating reward models allows optimization and search at inference time.
+  
+- **Reward Modeling from an Inverse RL Lens**: My work addresses both **data** and **model** aspects of reward modeling from an Inverse RL lens. Notable contributions include:
+    - [Prompt-OIRL](https://arxiv.org/pdf/2309.06553.pdf) for improving reasoning,
+    - [InverseRLignment](https://openreview.net/pdf/97e8ef1506b4477fd9dc41a76ea3257f65c66c5e.pdf) for building reward models from demonstration data,
+    - [DataCOPE](https://openreview.net/forum?id=wg5y4AK6l7) for evaluating the data for reward modeling, and reward modeling reliability,
+    - [ABC](https://arxiv.org/pdf/2402.00782.pdf) for addressing credit assignment via dense rewards, and
+    - [RATP](https://arxiv.org/pdf/2402.07812.pdf) for modeling LLMs' thought processes as MDPs and using MCTS and reward models to optimize.
+
+- **Order-Consistency in Alignment**: We recently developed an order-consistency framework for reward modeling in alignment. This includes the first asymptotic theory justifying the use of Bradley-Terry models and classifiers, supported by large-scale experiments (over 100,000 runs). (Paper and code to be released soon.)
 
 ### Research Philosophy
   - I am equally passionate about both the scientific discovery and engineering aspects of research, believing that great research must clearly separate and achieve both types of progress. Philosophically, I view science as a process of denoising --- uncovering the **minimal rules that explain complex observations** or **finding the minimalist approach to solve a practical problem effectively** brings me great fulfillment. One of my favorite films is _The Theory of Everything_, and it is an honor to pursue my PhD at DAMTP, Cambridge --- where the story took place.
   - In my research journey, several key contributions reflect this philosophy: I introduced self-imitation as a strong control method [(PCHID)](https://proceedings.neurips.cc/paper_files/paper/2019/file/3891b14b5d8cce2fdd8dcdb4ded28f6d-Paper.pdf); demonstrated Q-learning can be highly-efficient for continuous control [(ZOSPI)](https://arxiv.org/pdf/2006.06600); early termination and recurrent networks are sufficient to solve constrained-MDPs [(ETMDP)](https://arxiv.org/pdf/2107.04200); I propose to use _linear reward shifting_ as a powerful technique for either exploration or exploitation, in both online and offline RL [(RewardShifting)](https://proceedings.neurips.cc/paper_files/paper/2022/file/f600d1a3f6a63f782680031f3ce241a7-Paper-Conference.pdf); I use tree-based reward models to streamline reward modeling research, offering high flexibility and efficient ensemble practice without heavy memory usage.
-  - I deeply value the _Aha moments_ in research and have great respect for studies that evoke such moments. I firmly believe in Goodhart's Law: publications should never be the goal but rather the byproduct of a genuine pursuit of truth. Writing a paper is a way to share the joyful moments of exploration. 
 
 ### Research Keywords
-🤖️ My research focuses on **Reinforcement Learning** and I believe it paves the only way to *Superhuman Intelligence*. My previous work on reinforcement learning has been applied to reality-centric applications like **robotics🦾, healthcare💉, finance📈, and large language models🧠**. My research keywords during the past years include:
+🤖️ My research focuses on **Reinforcement Learning**, a fundamental path toward _Superhuman Intelligence_. Applications of my work span across **robotics🦾, healthcare💉, finance📈, and large language models🧠**. Some of my research keywords include:
+
 - **(Inverse) RL in Language Models** (2023-); **Inverse RL** (2021-); **Interpretable RL** (2023-); 
 - **Uncertainty Quantification** (2022-); **Off-Policy Evaluation and Reward Modeling** (2022-);
 - Value-Based Deep-RL (2021-); Offline RL (2021-); Optimism in Exploration (2021-); 
