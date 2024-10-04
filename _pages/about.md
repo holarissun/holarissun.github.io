@@ -45,7 +45,7 @@ Since June 2023, my research has centered on leveraging LLMs as a key use case f
 News
 ======
 📄 (2024.09) Our [Data Centric Reward Modeling](https://openreview.net/forum?id=wg5y4AK6l7) paper is accepted by the Journal of Data-Centric Machine Learning Research (DMLR). <br>
-📄 (2024.08) Attending the 1st RLC at Amherst to present [InverseRLignment](https://openreview.net/pdf/97e8ef1506b4477fd9dc41a76ea3257f65c66c5e.pdf) at the RL beyond reward workshop (accepted with score 9). <br>
+📄 (2024.08) [InverseRLignment](https://openreview.net/pdf/97e8ef1506b4477fd9dc41a76ea3257f65c66c5e.pdf) is presented at the RL beyond reward workshop (accepted with score 9) at the 1-st RLC. <br>
 📄 (2024.05) [InverseRLignment](https://openreview.net/pdf/97e8ef1506b4477fd9dc41a76ea3257f65c66c5e.pdf) is online, it **builds reward models from SFT data**. <br>
 📄 (2024.05) Our [Dense Reward Model](https://arxiv.org/pdf/2402.00782.pdf) paper is accepted by ICML 2024. <br>
 📄 (2024.03) I wrote <a href="https://arxiv.org/abs/2403.12017">an article </a> arguing that **Supervised Fine Tuning is Inverse Reinforcement Learning**! <br>
