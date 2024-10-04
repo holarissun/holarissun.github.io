@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🚀 **Hi there!** I am Hao Sun, a final-year Ph.D. student at the University of Cambridge, supervised by [Prof. Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/), working at the intersection of reinforcement learning (RL) and large language models (LLMs). During my M.Phil. study at [MMLab@CUHK](https://mmlab.ie.cuhk.edu.hk/), I was advised by Prof. Dahua Lin and Prof. Bolei Zhou. I hold a B.Sc. in Physics from the Yuanpei College at Peking University, and a B.Sc. from the Guanghua School of Management. My undergraduate thesis was supervised by Prof. Zhouchen Lin.
+🚀 **Hi there!** I am Hao Sun, a final-year Ph.D. student at the University of Cambridge, supervised by [Prof. Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/), working at the intersection of reinforcement learning (RL) and large language models (LLMs). During my M.Phil. study at [MMLab@CUHK](https://mmlab.ie.cuhk.edu.hk/), I was advised by [Prof. Dahua Lin](http://dahua.site/) and [Prof. Bolei Zhou](https://boleizhou.github.io/). I hold a B.Sc. in Physics from the Yuanpei College at Peking University, and a B.Sc. from the Guanghua School of Management. My undergraduate thesis was supervised by [Prof. Zhouchen Lin](https://zhouchenlin.github.io/).
 
 <mark> I am seeking research scientist and academic positions starting in 2025. </mark>
 
