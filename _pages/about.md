@@ -12,7 +12,7 @@ redirect_from:
 
 <mark> I am seeking research scientist and academic positions starting in 2025. </mark>
 
-## My Research
+# About My Research
 ### Recent Research Highlights
 
 Since June 2023, my research has centered on leveraging LLMs as a key use case for reality-centric RL, particularly from an Inverse RL perspective. **My aim is to improve the general capabilities of LLMs through advanced reward modeling and alignment**. Some key insights and contributions include:
@@ -31,14 +31,14 @@ Since June 2023, my research has centered on leveraging LLMs as a key use case f
   - I am equally passionate about both the scientific discovery and engineering aspects of research, believing that great research must clearly separate and achieve both types of progress. Philosophically, I view science as a process of denoising --- uncovering the **minimal rules that explain complex observations** or **finding the minimalist approach to solve a practical problem effectively** brings me great fulfillment. One of my favorite films is _The Theory of Everything_, and it is an honor to pursue my PhD at DAMTP, Cambridge --- where the story took place.
   - In my research journey, several key contributions reflect this philosophy: I introduced self-imitation as a strong control method [(PCHID)](https://proceedings.neurips.cc/paper_files/paper/2019/file/3891b14b5d8cce2fdd8dcdb4ded28f6d-Paper.pdf); demonstrated Q-learning can be highly-efficient for continuous control [(ZOSPI)](https://arxiv.org/pdf/2006.06600); early termination and recurrent networks are sufficient to solve constrained-MDPs [(ETMDP)](https://arxiv.org/pdf/2107.04200); I propose to use _linear reward shifting_ as a powerful technique for either exploration or exploitation, in both online and offline RL [(RewardShifting)](https://proceedings.neurips.cc/paper_files/paper/2022/file/f600d1a3f6a63f782680031f3ce241a7-Paper-Conference.pdf); I use tree-based reward models to streamline reward modeling research, offering high flexibility and efficient ensemble practice without heavy memory usage.
 
-### Keywords
+### Research Keywords
 🤖️ My research focuses on **Reinforcement Learning**, a fundamental path toward _Superhuman Intelligence_. Applications of my work span across **robotics🦾, healthcare💉, finance📈, and large language models🧠**. Some of my research keywords include:
 
 - **(Inverse) RL in Language Models** (2023-); **Inverse RL** (2021-); **Interpretable RL** (2023-); 
 - **Uncertainty Quantification** (2022-); **Off-Policy Evaluation and Reward Modeling** (2022-);
 - Value-Based Deep-RL (2021-); Offline RL (2021-); Optimism in Exploration (2021-); 
 - Continuous Control via Supervised Learning (2020-); Goal-Conditioned RL (2020-)
-- **RL in Robotics** (2019-)
+- **RL for Robotics and Control** (2019-)
 
 
 
@@ -68,11 +68,7 @@ News
 
 🙋 More About Me
 ----
-In my spare time, I am passionate about embracing nature. I'm a climber🧗, a (big mountain) snowboarder🏂 and pow-hunter🌊, a (all mountain) skier⛷️ (slope id = email). I find great fulfillment in exploring both the physical and intellectual worlds.
-
-🤝 I'm open to collaborations for more sparks of 'aha' moments. Please drop me an email if you find my work interesting. Let us push RL closer to superhuman intelligence! Here are some topics I'm actively working on:
-- **Inverse and Forward Alignment** in Language Modeling: Multi-Objective, Meta-Learn, Uncertainty
-- Data-Centric Perspective of **Reward Modeling**
+In my spare time, I am passionate about embracing nature. I'm a climber🧗, a big mountain snowboarder🏂 and pow-hunter🏔️, an all mountain skier⛷️ (slope id = email). I find great fulfillment in exploring both the physical and intellectual worlds.
 
 
 <a href="https://clustrmaps.com/site/1bysk"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=RtOCs2DxbgCleb2bwL7ZaU9kONDpyPNXGY_Guo_CtaM&cl=ffffff" /></a>
