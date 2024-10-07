@@ -42,7 +42,7 @@ Since June 2023, my research has centered on leveraging LLMs as a key use case f
 
 
 
-News
+News!
 ======
 📄 (2024.09) Our [Data Centric Reward Modeling](https://openreview.net/forum?id=wg5y4AK6l7) paper is accepted by the Journal of Data-Centric Machine Learning Research (DMLR). <br>
 📄 (2024.08) [InverseRLignment](https://openreview.net/pdf/97e8ef1506b4477fd9dc41a76ea3257f65c66c5e.pdf) is presented at the RL beyond reward workshop (accepted with score 9) at the 1-st RLC. <br>
@@ -66,9 +66,10 @@ News
 
 
 
-🙋 More About Me
-----
-In my spare time, I am passionate about embracing nature. I'm a climber🧗, a big mountain snowboarder🏂 and pow-hunter🏔️, an all mountain skier⛷️ (slope id = email). I find great fulfillment in exploring both the physical and intellectual worlds.
+🙋 Me, at Life :) 
+=====
+
+In my spare time, I am passionate about embracing nature. I'm a climber🧗, a big mountain snowboarder🏂 and pow-hunter🏔️, an all mountain skier⛷️ (slope id = email). I find great fulfillment in exploring both the physical and intellectual worlds. 
 
 
 <a href="https://clustrmaps.com/site/1bysk"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=RtOCs2DxbgCleb2bwL7ZaU9kONDpyPNXGY_Guo_CtaM&cl=ffffff" /></a>
