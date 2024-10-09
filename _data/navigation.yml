@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "My Research"
     url: /publications/
 
-  - title: "News"
+  - title: "News!"
     url: /news/
 
   # - title: "Teaching"
