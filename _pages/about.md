@@ -69,7 +69,7 @@ News!
 🙋 Me, in my life :) 
 =====
 
-In my spare time, I am passionate about embracing nature. I'm a climber🧗, a big mountain snowboarder🏂 and pow-hunter🏔️, an all mountain skier⛷️ (slope id = email). I find great fulfillment in exploring both the physical and intellectual worlds. 
+In my spare time, I am passionate about embracing nature. I'm a climber🧗, a big mountain snowboarder🏂 and pow-hunter🏔️, an all mountain skier⛷️ (slope id = email). I find fulfillment in exploring the physical, mental, and intellectual worlds. 
 
 ![me in my life :) ](/images/meatlife.png)
 
