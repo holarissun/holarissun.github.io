@@ -71,6 +71,7 @@ News!
 
 In my spare time, I am passionate about embracing nature. I'm a climber🧗, a big mountain snowboarder🏂 and pow-hunter🏔️, an all mountain skier⛷️ (slope id = email). I find great fulfillment in exploring both the physical and intellectual worlds. 
 
+![me in my life :) ](/images/meatlife.png)
 
 <a href="https://clustrmaps.com/site/1bysk"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=RtOCs2DxbgCleb2bwL7ZaU9kONDpyPNXGY_Guo_CtaM&cl=ffffff" /></a>
 
