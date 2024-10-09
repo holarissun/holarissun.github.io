@@ -15,7 +15,7 @@ redirect_from:
 # About My Research
 ### Recent Research Highlights
 
-Since June 2023, my research has centered on leveraging LLMs as a key use case for reality-centric RL, particularly from an Inverse RL perspective. **My aim is to improve the general capabilities of LLMs through advanced reward modeling and alignment**. Some key insights and contributions include:
+Since June 2023, my research has centered on leveraging LLMs as a key use case for RL, particularly from an Inverse RL perspective. **My recent works focus on improving the general capabilities of LLMs through advanced reward modeling and alignment**. Some key insights and contributions include:
 - **Necessity of Alignment in Any Application of LLMs**: Any use of LLMs can be significantly enhanced through reward modeling and alignment. Without such models, LLMs function as universal samplers, but integrating reward models allows optimization and search at inference time.
   
 - **Reward Modeling from an Inverse RL Lens**: My work addresses both **data** and **model** aspects of reward modeling from an Inverse RL lens:
@@ -66,7 +66,7 @@ News!
 
 
 
-🙋 Me, at Life :) 
+🙋 Me, in my life :) 
 =====
 
 In my spare time, I am passionate about embracing nature. I'm a climber🧗, a big mountain snowboarder🏂 and pow-hunter🏔️, an all mountain skier⛷️ (slope id = email). I find great fulfillment in exploring both the physical and intellectual worlds. 
