@@ -1,14 +1,13 @@
 ---
 layout: archive
-title: "Hao Sun"
+title: "News!"
 permalink: /news/
 author_profile: true
 redirect_from:
   - /news
 ---
 
-News!
-======
+
 📄 (2024.09) Our [Data Centric Reward Modeling](https://openreview.net/forum?id=wg5y4AK6l7) paper is accepted by the Journal of Data-Centric Machine Learning Research (DMLR). <br>
 📄 (2024.08) [InverseRLignment](https://openreview.net/pdf/97e8ef1506b4477fd9dc41a76ea3257f65c66c5e.pdf) is presented at the RL beyond reward workshop (accepted with score 9) at the 1-st RLC. <br>
 📄 (2024.05) [InverseRLignment](https://openreview.net/pdf/97e8ef1506b4477fd9dc41a76ea3257f65c66c5e.pdf) is online, it **builds reward models from SFT data**. <br>
