@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "My Research"
 permalink: /publications/
 author_profile: true
 ---
@@ -10,75 +10,30 @@ author_profile: true
 <!-- {% include base_path %} -->
 <!-- *: corresponding author -->
 
-## Preprint
+### Recent Research Highlights
 
-### [RL x LLM] Supervised Fine-Tuning as Inverse Reinforcement Learning <a href="https://arxiv.org/pdf/2403.12017.pdf"> [Paper] </a>
+Since June 2023, my research has centered on leveraging LLMs as a key use case for RL, particularly from an Inverse RL perspective. **My recent works focus on improving the general capabilities of LLMs through advanced reward modeling and alignment**. Some key insights and contributions include:
+- **Necessity of Alignment in Any Application of LLMs**: Any use of LLMs can be significantly enhanced through reward modeling and alignment. Without such models, LLMs function as universal samplers, but integrating reward models allows optimization and search at inference time.
+  
+- **Reward Modeling from an Inverse RL Lens**: My work addresses both **data** and **model** aspects of reward modeling from an Inverse RL lens:
+    - [Prompt-OIRL](https://arxiv.org/pdf/2309.06553.pdf) for improving reasoning,
+    - [InverseRLignment](https://openreview.net/pdf/97e8ef1506b4477fd9dc41a76ea3257f65c66c5e.pdf) for building reward models from demonstration data,
+    - [DataCOPE](https://openreview.net/forum?id=wg5y4AK6l7) for evaluating the data for reward modeling, and reward modeling reliability,
+    - [ABC](https://arxiv.org/pdf/2402.00782.pdf) for addressing credit assignment via dense rewards, and
+    - [RATP](https://arxiv.org/pdf/2402.07812.pdf) for modeling LLMs' thought processes as MDPs and using MCTS and reward models to optimize.
 
-*__Hao Sun__*
+- **Order-Consistency in Reward Modeling**: We recently developed an order-consistency framework for reward modeling in alignment. This includes the first asymptotic theory justifying the use of Bradley-Terry models and classifiers, supported by large-scale experiments (over 100,000 runs). (Paper and code to be released soon.)
 
-- In our work, **we question the efficacy of the preference-based datasets in LLM alignment**
-and explore various scenarios where alignment with expert demonstrations proves more realistic. 
-Drawing insights from inverse reinforcement learning and imitation learning, we introduce various approaches for
-divergence minimization in the LLM alignment tasks. Our analysis highlights the **mass-covering** and **mode-seeking**
-behaviors of these different approaches. Inclusively, we examine the **pros and cons of the classical supervised fine-tuning method, elaborating on scenarios where different methods shine.**
+### Research Philosophy
+  - I am equally passionate about both the scientific discovery and engineering aspects of research, believing that great research must clearly separate and achieve both types of progress. Philosophically, I view science as a process of denoising --- uncovering the **minimal rules that explain complex observations** or **finding the minimalist approach to solve a practical problem effectively** brings me great fulfillment. One of my favorite films is _The Theory of Everything_, and it is an honor to pursue my PhD at DAMTP, Cambridge --- where the story took place.
+  - In my research journey, several key contributions reflect this philosophy: I introduced self-imitation as a strong control method [(PCHID)](https://proceedings.neurips.cc/paper_files/paper/2019/file/3891b14b5d8cce2fdd8dcdb4ded28f6d-Paper.pdf); demonstrated Q-learning can be highly-efficient for continuous control [(ZOSPI)](https://arxiv.org/pdf/2006.06600); early termination and recurrent networks are sufficient to solve constrained-MDPs [(ETMDP)](https://arxiv.org/pdf/2107.04200); I propose to use _linear reward shifting_ as a powerful technique for either exploration or exploitation, in both online and offline RL [(RewardShifting)](https://proceedings.neurips.cc/paper_files/paper/2022/file/f600d1a3f6a63f782680031f3ce241a7-Paper-Conference.pdf); I use tree-based reward models to streamline reward modeling research, offering high flexibility and efficient ensemble practice without heavy memory usage.
 
-### [RL x LLM] Reinforcement Learning in the Era of LLMs: What is Essential? What is Needed? <a href="https://arxiv.org/pdf/2310.06147.pdf"> [Paper] </a>
+### Research Keywords
+🤖️ My research focuses on **Reinforcement Learning**, a fundamental path toward _Superhuman Intelligence_. Applications of my work span across **robotics🦾, healthcare💉, finance📈, and large language models🧠**. Some of my research keywords include:
 
-*__Hao Sun__*
-
-- (1) RLHF is online IRL rather than offline RL. (2) RLHF is better than SFT because imitation learning alleviates the compounding error problem. (3) Insight of RM can be generalized to other LLM applications except alignment. (4) RLHF is more challenging than conventional IRL due to action space dimensionality and reward sparsity. (5) The superiority of PPO in RLHF may originate from its stability.
-
-
-## Conference
-
-### [ICLR 2024] Query-Dependent Prompt Evaluation and Optimization with Inverse RL <a href="https://arxiv.org/pdf/2309.06553.pdf"> [Paper] </a><a href="https://github.com/holarissun/Prompt-OIRL"> [Code] </a>
-
-*__Hao Sun__, Alihan Hüyük, Mihaela van der Schaar*
-
-- We propose Prompt-OIRL, showing that Inverse RL can be used for offline query-dependent prompt evaluation and optimization. It does not require interactions with the LLMs during learning yet achieves superior performance on arithmetic reasoning tasks.
-
-
-### [NeurIPS 2023] Accountability in Offline Reinforcement Learning: Explaining Decisions with a Corpus of Examples <a href="https://arxiv.org/pdf/2310.07747.pdf"> [Paper] </a><a href=" "> [Code (Soon)] </a>
-
-*__Hao Sun__, Alihan Hüyük, Daniel Jarrett, Mihaela van der Schaar*
-
-- We introduce an effective algorithm to enhance interpretability and accountability in offline RL. This research is critical for responsibility-sensitive applications like finance and healthcare. 
-
-
-### [NeurIPS 2023] DAUC: a Density-based Approach for Uncertainty Categorization  <a href="https://arxiv.org/pdf/2207.05161.pdf"> [Paper (To Be Updated)] </a><a href="https://anonymous.4open.science/r/DAUX-CBBF"> [Code (Soon)] </a>
-
-*__Hao Sun__ ^, Boris van Breugel^, Jonathan Crabbe, Nabeel Seedat, Mihaela van der Schaar*
-
-- We propose a density-based approach to classify and explain the source of uncertainty.
-
-
-### [NeurIPS 2022] Exploiting Reward Shifting in Value-Based DRL  <a href="https://arxiv.org/pdf/2209.07288.pdf"> [Paper] </a><a href="https://github.com/2Groza/RewardShifting"> [Code] </a>
-
-*__Hao Sun__, Lei Han, Rui Yang, Xiaoteng Ma, Jian Guo, Bolei Zhou*
-
-- A positive reward shifting leads to conservative exploitation, while a negative reward shifting leads to curiosity-driven exploration.
-
-
-### [ICLR 2022] Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL <a href="https://arxiv.org/abs/2202.04478"> [Paper] </a><a href="https://github.com/YangRui2015/AWGCSL"> [Code] </a>
-
-*Rui Yang, Yiming Lu, Wenzhe Li, __Hao Sun__, Meng Fang, Yali Du, Xiu Li, Lei Han, Chongjie Zhang*
-- We optimize the GCSL with a lower bound of the goal-reaching objective and link the success of GCSL from perspective of offline RL.
-
-### [IJCAI 2021] Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction <a href="https://www.ijcai.org/proceedings/2020/0640.pdf"> [Paper] </a>
-
-*Qianggang Ding, Sifan Wu, __Hao Sun__, Jiadong Guo, Jian Guo*
-
-- We adapt transformer to stock movement predictions.
-
-### [AAAI 2021] Adaptive Regularization of Labels <a href="https://arxiv.org/abs/1908.05474"> [Paper] </a>
-
-*Qianggang Ding, Sifan Wu, __Hao Sun__, Jiadong Guo, Shu-Tao Xia*
-- We study the correlations between lables to improve model performance.
-
-
-### [NeurIPS 2019 (Spotlight)] Policy Continuation with Hindsight Inverse Dynamics <a href="https://arxiv.org/abs/1910.14055"> [Paper] </a><a href="https://github.com/2Groza/PCHID_code"> [Code] </a> <a href='https://sites.google.com/view/neurips2019pchid/'> [Homepage] </a>
-
-*__Hao Sun__, Zhizhong Li, Xiaotong Liu, Dahua Lin, Bolei Zhou*
-- Supervised Learning can be used to solve goal-conditioned RL tasks.
-
+- **(Inverse) RL in Language Models** (2023-); **Inverse RL** (2021-); **Interpretable RL** (2023-); 
+- **Uncertainty Quantification** (2022-); **Off-Policy Evaluation and Reward Modeling** (2022-);
+- Value-Based Deep-RL (2021-); Offline RL (2021-); Optimism in Exploration (2021-); 
+- Continuous Control via Supervised Learning (2020-); Goal-Conditioned RL (2020-)
+- **RL for Robotics and Control** (2019-)
 
