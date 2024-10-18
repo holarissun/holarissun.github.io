@@ -15,6 +15,7 @@ redirect_from:
 
 News!
 ======
+💬 (2024.10) New talk on **Inverse RL Meets LLMs** at the vdsLab2024 OpenHouse. This talk summarizes our efforts in using IRL for better Prompting, Fine-Tuning, and Inference-Time Optimization. <br>
 📄 (2024.09) Our [Data Centric Reward Modeling](https://openreview.net/forum?id=wg5y4AK6l7) paper is accepted by the Journal of Data-Centric Machine Learning Research (DMLR). <br>
 📄 (2024.08) [InverseRLignment](https://openreview.net/pdf/97e8ef1506b4477fd9dc41a76ea3257f65c66c5e.pdf) is presented at the RL beyond reward workshop (accepted with score 9) at the 1-st RLC. <br>
 📄 (2024.05) [InverseRLignment](https://openreview.net/pdf/97e8ef1506b4477fd9dc41a76ea3257f65c66c5e.pdf) is online, it **builds reward models from SFT data**. <br>
