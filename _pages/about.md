@@ -18,7 +18,7 @@ News!
 📄 (2025.01) Two Papers on reward modeling will be available soon (Reward Model: Part II and Part III) <br>
 📄 (2025.01) Our [Reward Model Paper (Part I): Foundation](https://arxiv.org/pdf/2411.04991) is accepted by ICLR! <br>
 💬 (2024.12) Our **[Tutorial: Inverse RL Meets LLMs](https://sites.google.com/view/irl-llm)** has been accepted by ACL-2025, see you at Vienna!<br>
-💬 (2024.10) Our **[Tutorial: Inverse RL Meets LLMs](https://sites.google.com/view/irl-llm)** has been accepted by AAAI-2025 --- Join us in Philadelphia and Vienna --- and let us explore the potential of Inverse RL in the era of LLMs! <br>
+💬 (2024.10) Our **[Tutorial: Inverse RL Meets LLMs](https://sites.google.com/view/irl-llm)** has been accepted by AAAI-2025 --- Join us in Philadelphia and let us explore the potential of Inverse RL in the era of LLMs! <br>
 💬 (2024.10) New talk on **Inverse RL Meets LLMs** at the vdsLab2024 OpenHouse and UCLA Zhou Lab. This talk summarizes our efforts in using **IRL for better Prompting, Fine-Tuning, and Inference-Time Optimization.** [Slide](https://holarissun.github.io/files/IRL_LLM_Oct.pdf) is online<br>
 📄 (2024.09) Our [Data Centric Reward Modeling](https://openreview.net/forum?id=wg5y4AK6l7) paper is accepted by the Journal of Data-Centric Machine Learning Research (DMLR). <br>
 📄 (2024.08) [InverseRLignment](https://openreview.net/pdf/97e8ef1506b4477fd9dc41a76ea3257f65c66c5e.pdf) is presented at the RL beyond reward workshop (accepted with score 9) at the 1-st RLC. <br>
