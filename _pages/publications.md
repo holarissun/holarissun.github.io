@@ -12,6 +12,8 @@ author_profile: true
 
 ### Recent Research Highlights
 
+
+
 Since June 2023, my research has centered on leveraging LLMs as a key use case for RL, particularly from an Inverse RL perspective. **My recent works focus on improving the general capabilities of LLMs through advanced reward modeling and alignment**. Some key insights and contributions include:
 - **Necessity of Alignment in Any Application of LLMs**: Any use of LLMs can be significantly enhanced through reward modeling and alignment. Without such models, LLMs function as universal samplers, but integrating reward models allows optimization and search at inference time.
   
