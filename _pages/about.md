@@ -33,7 +33,7 @@ _For full publication list, please check my <a href="https://scholar.google.com/
 
 - **[Rethinking the Bradley-Terry Models in Preference-based Reward Modeling: Foundation, Theory, and its Alternatives](https://arxiv.org/pdf/2411.04991)**  
   *ICLR 2025 **<span style="background-color: #f0f0f0; color: #333;">Oral (Top 1.2%)</span>***  
-  **Hao Sun<sup>*</sup>**, Yunyi Shen<sup>*</sup>, Jean-Francois Ton ( &ast; denotes equal contribution)  
+  **Hao Sun<sup>*</sup>**, Yunyi Shen<sup>*</sup>, Jean-Francois Ton (\*  denotes equal contribution)  
     - We studied the foundation of preference-based reinforcement learning from human feedback (RLHF) practices, answering the foundational question of why the Bradley-Terry model is a solid choice in RLHF.
     - **<span style="background-color: #f0f0f0; color: #333;">We justified and poineered the research direction of embedding-based reward modeling.</span>**
     - Our follow-up works further developed this agenda by studying active reward modeling in RLHF, efficient personalized alignment, and contributing computationally-efficient infrastructure to the research community.
