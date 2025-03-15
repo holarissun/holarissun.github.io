@@ -11,20 +11,20 @@ redirect_from:
 🚀 **Hi there!** I am Hao Sun, a final-year Ph.D. student at the University of Cambridge, supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/" style="color: gray; text-decoration: none;">Prof. Mihaela van der Schaar</a>, working at the intersection of reinforcement learning (RL) and large language models (LLMs). During my M.Phil. study at <a href="https://mmlab.ie.cuhk.edu.hk/" style="color: gray; text-decoration: none;">MMLab@CUHK</a>, I was advised by <a href="http://dahua.site/" style="color: gray; text-decoration: none;">Prof. Dahua Lin</a> and <a href="https://boleizhou.github.io/" style="color: gray; text-decoration: none;">Prof. Bolei Zhou</a>. I hold a B.Sc. in Physics from the Yuanpei College at Peking University, and a B.Sc. from the Guanghua School of Management. My undergraduate thesis was supervised by <a href="https://zhouchenlin.github.io/" style="color: gray; text-decoration: none;">Prof. Zhouchen Lin</a>.
 
 ### <mark> I am seeking full-time research positions starting in 2025</mark>
-
-
 <br>
 
-Representative Works
+Research
 ====
 _**High-level research interests and motivations:**_ My research focuses on RL and LLM Alignment (also known as post-training). RL (and interacting with the environment) is the key toward super-human intelligence, and more powerful LLMs --- using RL as training framework and natural language as the interaction interface --- can significantly enhance the ability of humans to learn from machine intelligence. 
+
+## Representative Works
 
 **I am particularly proud of the following research works.** <br>
 _For full publication list, please check my <a href="https://scholar.google.com/citations?hl=en&user=7ZNoHJkAAAAJ&view_op=list_works&sortby=pubdate" style="color: gray; text-decoration: none;">Google Scholar</a> page._
 
 
 
-### Large Langauge Model Alignment (Since 2023)
+### - Large Langauge Model Alignment (Since 2023)
 - **[Query-Dependent Prompt Evaluation and Optimization with Offline Inverse RL](https://arxiv.org/pdf/2309.06553)**  
   *ICLR 2024, also NeurIPS 2023 ENLSP Workshop as **<span style="background-color: #f0f0f0; color: #333;">Oral</span>** Presentation*  
   **Hao Sun**, Alihan Hüyük, jMihaela van der Schaar  
@@ -38,7 +38,7 @@ _For full publication list, please check my <a href="https://scholar.google.com/
     - **<span style="background-color: #f0f0f0; color: #333;">We justified and poineered the research direction of embedding-based reward modeling.</span>**
     - Our follow-up works further developed this agenda by studying active reward modeling in RLHF, efficient personalized alignment, and contributing computationally-efficient infrastructure to the research community.
 
-### Reinforcement Learning (Since 2018)
+### - Reinforcement Learning (Since 2018)
 - **[Policy Continuation with Hindsight Inverse Dynamics](https://proceedings.neurips.cc/paper_files/paper/2019/file/3891b14b5d8cce2fdd8dcdb4ded28f6d-Paper.pdf)**  
   *NeurIPS 2019 **<span style="background-color: #f0f0f0; color: #333;">Spotlight (Top 2.4%)</span>***  
   **Hao Sun**, Zhizhong Li, Dahua Lin, Bolei Zhou  
