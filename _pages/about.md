@@ -12,11 +12,15 @@ redirect_from:
 
 ### <mark> I am seeking full-time research positions starting in 2025</mark>
 
+
+<br>
+
 Representative Works
 ====
 _**High-level research interests and motivations:**_ My research focuses on RL and LLM Alignment (also known as post-training). RL (and interacting with the environment) is the key toward super-human intelligence, and more powerful LLMs --- using RL as training framework and natural language as the interaction interface --- can significantly enhance the ability of humans to learn from machine intelligence. 
 
-<mark>_I am particularly proud of the following research works_</span> </mark>. For full publication list, please check my <a href="https://scholar.google.com/citations?hl=en&user=7ZNoHJkAAAAJ&view_op=list_works&sortby=pubdate" style="color: gray; text-decoration: none;">Google Scholar</a>.
+<mark>_I am particularly proud of the following research works_</mark>. <br>
+_For full publication list, please check my <a href="https://scholar.google.com/citations?hl=en&user=7ZNoHJkAAAAJ&view_op=list_works&sortby=pubdate" style="color: gray; text-decoration: none;">Google Scholar</a> page._
 
 
 ### Large Langauge Model Alignment (Since 2023)
@@ -50,7 +54,7 @@ _**High-level research interests and motivations:**_ My research focuses on RL a
     - This method has been widely verified in RL applications such as <a href="https://www.ijcai.org/proceedings/2023/0514.pdf" style="color: gray; text-decoration: none;">offline RL (ICJAI'23))</a>, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10801909" style="color: gray; text-decoration: none;">robotics locomotion (IROS'24)</a>, <a href="https://openreview.net/pdf?id=AS0S1flXxR" style="color: gray; text-decoration: none;">optimistic initialization (AAMAS'24)</a> , <a href="https://arxiv.org/pdf/2411.11099" style="color: gray; text-decoration: none;">multi-agent exploration (Recent preprint)</a>.
 
 
-
+<br>
 
 
 News!
