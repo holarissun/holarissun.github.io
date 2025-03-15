@@ -26,31 +26,31 @@ _For full publication list, please check my <a href="https://scholar.google.com/
 
 ### Large Langauge Model Alignment (Since 2023)
 - **[Query-Dependent Prompt Evaluation and Optimization with Offline Inverse RL](https://arxiv.org/pdf/2309.06553)**  
-  *ICLR 2024, also NeurIPS 2023 ENLSP Workshop as **<span style="background-color: gray;">Oral</span>** Presentation*  
+  *ICLR 2024, also NeurIPS 2023 ENLSP Workshop as **<span style="background-color: #f0f0f0; color: #333;">Oral</span>** Presentation*  
   **Hao Sun**, Alihan Hüyük, jMihaela van der Schaar  
     - We studied the large language model inference-time optimization on mathematical reasoning tasks.
-    - We highlighted the importance of reward models in **<span style="background-color: gray;">LLM inference-time optimization for math</span>**, which has been recognized by the community as an important topic since late 2024 (a year after the paper has been finished).
+    - We highlighted the importance of reward models in **<span style="background-color: #f0f0f0; color: #333;">LLM inference-time optimization for math</span>**, which has been recognized by the community as an important topic since late 2024 (a year after the paper has been finished).
 
 - **[Rethinking the Bradley-Terry Models in Preference-based Reward Modeling: Foundation, Theory, and its Alternatives](https://arxiv.org/pdf/2411.04991)**  
-  *ICLR 2025 **<span style="background-color: gray;">Oral (Top 1.2%)</span>***  
+  *ICLR 2025 **<span style="background-color: #f0f0f0; color: #333;">Oral (Top 1.2%)</span>***  
   **Hao Sun<sup>*</sup>**, Yunyi Shen<sup>*</sup>, Jean-Francois Ton ( &ast; denotes equal contribution)  
     - We studied the foundation of preference-based reinforcement learning from human feedback (RLHF) practices, answering the foundational question of why the Bradley-Terry model is a solid choice in RLHF.
-    - **<span style="background-color: gray;">We justified and poineered the research direction of embedding-based reward modeling.</span>**
+    - **<span style="background-color: #f0f0f0; color: #333;">We justified and poineered the research direction of embedding-based reward modeling.</span>**
     - Our follow-up works further developed this agenda by studying active reward modeling in RLHF, efficient personalized alignment, and contributing computationally-efficient infrastructure to the research community.
 
 ### Reinforcement Learning (Since 2018)
 - **[Policy Continuation with Hindsight Inverse Dynamics](https://proceedings.neurips.cc/paper_files/paper/2019/file/3891b14b5d8cce2fdd8dcdb4ded28f6d-Paper.pdf)**  
-  *NeurIPS 2019 **<span style="background-color: gray;">Spotlight (Top 2.4%)</span>***  
+  *NeurIPS 2019 **<span style="background-color: #f0f0f0; color: #333;">Spotlight (Top 2.4%)</span>***  
   **Hao Sun**, Zhizhong Li, Dahua Lin, Bolei Zhou  
     - We innovated the first self-imitation-learning paradigm of multi-goal RL.
-    - Our paper **<span style="background-color: gray;">pioneered the research field of supervised-learning-based goal-conditioned RL</span>**, and has been followed by the research works from [UC Berkeley Paper 1](https://openreview.net/forum?id=ByxoqJrtvr) [and Paper 2](https://arxiv.org/pdf/2011.08909) since 2021.
+    - Our paper **<span style="background-color: #f0f0f0; color: #333;">pioneered the research field of supervised-learning-based goal-conditioned RL</span>**, and has been followed by the research works from [UC Berkeley Paper 1](https://openreview.net/forum?id=ByxoqJrtvr) [and Paper 2](https://arxiv.org/pdf/2011.08909) since 2021.
     - Our [follow-up work](https://openreview.net/pdf?id=R9jakCHb_1C) extended this idea into general continuous control settings.
     - Our [follow-up work](https://arxiv.org/pdf/2202.04478) published at ICLR 2022 connects this idea with offline-RL
 
 - **[Exploiting Reward Shifting in Value-based Deep RL](https://openreview.net/pdf?id=iCxRsZcVVAH)**  
   *NeurIPS 2022*  
   **Hao Sun**, Lei Han, Rui Yang, Xiaoteng Ma, Bolei Zhou  
-    - We added **<span style="background-color: gray;">new insights to the fundamental dilemma of exploration and exploitation trade-offs</span>** through reward shifting.
+    - We added **<span style="background-color: #f0f0f0; color: #333;">new insights to the fundamental dilemma of exploration and exploitation trade-offs</span>** through reward shifting.
     - This line of research has been followed by [research from Professor Richard Sutton's group](https://arxiv.org/pdf/2405.09999) since 2024.
     - This method has been widely verified in RL applications such as <a href="https://www.ijcai.org/proceedings/2023/0514.pdf" style="color: gray; text-decoration: none;">offline RL (ICJAI'23))</a>, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10801909" style="color: gray; text-decoration: none;">robotics locomotion (IROS'24)</a>, <a href="https://openreview.net/pdf?id=AS0S1flXxR" style="color: gray; text-decoration: none;">optimistic initialization (AAMAS'24)</a> , <a href="https://arxiv.org/pdf/2411.11099" style="color: gray; text-decoration: none;">multi-agent exploration (Recent preprint)</a>.
 
