@@ -27,7 +27,7 @@ _For full publication list, please check my <a href="https://scholar.google.com/
 ### - Large Langauge Model Alignment (Since 2023)
 - **[Query-Dependent Prompt Evaluation and Optimization with Offline Inverse RL](https://arxiv.org/pdf/2309.06553)**  
   *ICLR 2024, also NeurIPS 2023 ENLSP Workshop as **<span style="background-color: #f0f0f0; color: #333;">Oral</span>** Presentation*  
-  **Hao Sun**, Alihan Hüyük, jMihaela van der Schaar  
+  **Hao Sun**, Alihan Hüyük, Mihaela van der Schaar  
     - We studied the large language model inference-time optimization on mathematical reasoning tasks.
     - We highlighted the importance of reward models in **<span style="background-color: #f0f0f0; color: #333;">LLM inference-time optimization for math</span>**, which has been recognized by the community as an important topic since late 2024 (a year after the paper has been finished).
 
