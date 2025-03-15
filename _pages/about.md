@@ -15,16 +15,11 @@ redirect_from:
 
 Research
 ====
-_**High-level research interests and motivations:**_ My research focuses on RL and LLM Alignment (also known as post-training). RL (and interacting with the environment) is the key toward super-human intelligence, and more powerful LLMs --- using RL as training framework and natural language as the interaction interface --- can significantly enhance the ability of humans to learn from machine intelligence. 
-
-## Representative Works
+**Research interests and motivations:** My research focuses on RL and LLM Alignment (also referred to as post-training). RL is the key toward super-human intelligence, and more powerful LLMs --- aligned with RL --- can significantly enhance the ability of humans to learn from machine intelligence through natural language. 
 
 **I am particularly proud of the following research works.** <br>
-_For full publication list, please check my <a href="https://scholar.google.com/citations?hl=en&user=7ZNoHJkAAAAJ&view_op=list_works&sortby=pubdate" style="color: gray; text-decoration: none;">Google Scholar</a> page._
 
-
-
-### - Large Langauge Model Alignment (Since 2023)
+## Representative Works on Large Langauge Model Alignment (Since 2023)
 - **[Query-Dependent Prompt Evaluation and Optimization with Offline Inverse RL](https://arxiv.org/pdf/2309.06553)**  
   *ICLR 2024, also NeurIPS 2023 ENLSP Workshop as **<span style="background-color: #f0f0f0; color: #333;">Oral</span>** Presentation*  
   **Hao Sun**, Alihan Hüyük, Mihaela van der Schaar  
@@ -38,7 +33,7 @@ _For full publication list, please check my <a href="https://scholar.google.com/
     - **<span style="background-color: #f0f0f0; color: #333;">We justified and poineered the research direction of embedding-based reward modeling.</span>**
     - Our follow-up works further developed this agenda by studying active reward modeling in RLHF, efficient personalized alignment, and contributing computationally-efficient infrastructure to the research community.
 
-### - Reinforcement Learning (Since 2018)
+## Representative Works on Reinforcement Learning (Since 2018)
 - **[Policy Continuation with Hindsight Inverse Dynamics](https://proceedings.neurips.cc/paper_files/paper/2019/file/3891b14b5d8cce2fdd8dcdb4ded28f6d-Paper.pdf)**  
   *NeurIPS 2019 **<span style="background-color: #f0f0f0; color: #333;">Spotlight (Top 2.4%)</span>***  
   **Hao Sun**, Zhizhong Li, Dahua Lin, Bolei Zhou  
