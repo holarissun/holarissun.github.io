@@ -40,8 +40,8 @@ redirect_from:
 - **[Policy Continuation with Hindsight Inverse Dynamics](https://proceedings.neurips.cc/paper_files/paper/2019/file/3891b14b5d8cce2fdd8dcdb4ded28f6d-Paper.pdf)**  
   *NeurIPS 2019 **<span style="background-color: #f0f0f0; color: #333;">Spotlight (Top 2.4%)</span>***  
   **Hao Sun**, Zhizhong Li, Dahua Lin, Bolei Zhou  
-    - We innovated the first self-imitation-learning paradigm of multi-goal RL.
-    - Our paper **<span style="background-color: #f0f0f0; color: #333;">pioneered the research field of supervised-learning-based goal-conditioned RL</span>**, and has been followed by the research works from [UC Berkeley Paper 1](https://openreview.net/forum?id=ByxoqJrtvr) [and Paper 2](https://arxiv.org/pdf/2011.08909) since 2021.
+    - We innovated the first self-imitation-learning algorithm of multi-goal RL.
+    - Our paper **<span style="background-color: #f0f0f0; color: #333;">pioneered the research field of supervised-learning-based goal-conditioned RL</span>**. This agenda has been further developed by the research works from [UC Berkeley Paper 1](https://openreview.net/forum?id=ByxoqJrtvr) [and Paper 2](https://arxiv.org/pdf/2011.08909) since 2021.
     - Our [follow-up work](https://openreview.net/pdf?id=R9jakCHb_1C) extended this idea into general continuous control settings.
     - Our [follow-up work](https://arxiv.org/pdf/2202.04478) published at ICLR 2022 connects this idea with offline-RL
 
@@ -49,7 +49,7 @@ redirect_from:
   *NeurIPS 2022*  
   **Hao Sun**, Lei Han, Rui Yang, Xiaoteng Ma, Bolei Zhou  
     - We added **<span style="background-color: #f0f0f0; color: #333;">new insights to the fundamental dilemma of exploration and exploitation trade-offs</span>** through reward shifting.
-    - This line of research has been followed by [research from Professor Richard Sutton's group](https://arxiv.org/pdf/2405.09999) since 2024.
+    - This line of research has been revisited and highlighted by [research from Professor Richard Sutton's group](https://arxiv.org/pdf/2405.09999) at RLC'2024.
     - This method has been widely verified in RL applications such as <a href="https://www.ijcai.org/proceedings/2023/0514.pdf" style="color: gray; text-decoration: none;">offline RL (ICJAI'23))</a>, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10801909" style="color: gray; text-decoration: none;">robotics locomotion (IROS'24)</a>, <a href="https://openreview.net/pdf?id=AS0S1flXxR" style="color: gray; text-decoration: none;">optimistic initialization (AAMAS'24)</a> , <a href="https://arxiv.org/pdf/2411.11099" style="color: gray; text-decoration: none;">multi-agent exploration (Recent preprint)</a>.
 
 
