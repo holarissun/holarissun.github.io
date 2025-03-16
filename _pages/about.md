@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+---
+
 🚀 **Hi there!** I am Hao Sun, a final-year Ph.D. student at the University of Cambridge, supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/" style="color: gray; text-decoration: none;">Prof. Mihaela van der Schaar</a>, working at the intersection of reinforcement learning (RL) and large language models (LLMs). During my M.Phil. study at <a href="https://mmlab.ie.cuhk.edu.hk/" style="color: gray; text-decoration: none;">MMLab@CUHK</a>, I was advised by <a href="http://dahua.site/" style="color: gray; text-decoration: none;">Prof. Dahua Lin</a> and <a href="https://boleizhou.github.io/" style="color: gray; text-decoration: none;">Prof. Bolei Zhou</a>. I hold a B.Sc. in Physics from the Yuanpei College at Peking University, and a B.Sc. from the Guanghua School of Management. My undergraduate thesis was supervised by <a href="https://zhouchenlin.github.io/" style="color: gray; text-decoration: none;">Prof. Zhouchen Lin</a>.
 
 ### <mark> I am seeking full-time research positions starting in 2025</mark>
@@ -15,6 +17,7 @@ redirect_from:
 
 Research
 ====
+---
 **Research interests and motivations:** My research focuses on RL and LLM Alignment (also referred to as post-training). RL is the key toward super-human intelligence, and more powerful LLMs --- optimized by RL --- can significantly enhance the ability of humans to learn from machine intelligence through natural language. 
 
 **I am particularly proud of the following research works:** <br>
@@ -29,9 +32,9 @@ Research
 - **[Rethinking the Bradley-Terry Models in Preference-based Reward Modeling: Foundation, Theory, and its Alternatives](https://arxiv.org/pdf/2411.04991)**  
   *ICLR 2025 **<span style="background-color: #f0f0f0; color: #333;">Oral (Top 1.2%)</span>***  
   **Hao Sun<sup>*</sup>**, Yunyi Shen<sup>*</sup>, Jean-Francois Ton (\*  denotes equal contribution)  
-    - We studied the foundation of preference-based reinforcement learning from human feedback (RLHF) practices, answering the foundational question of why the Bradley-Terry model is a solid choice in RLHF.
+    - We studied the foundation of preference-based reinforcement learning from human feedback (RLHF) practices, answering the foundational question of why the Bradley-Terry model is a solid (yet not necessary) choice in RLHF.
     - **<span style="background-color: #f0f0f0; color: #333;">We justified and poineered the research direction of embedding-based reward modeling.</span>**
-    - Our follow-up works further developed this agenda by studying active reward modeling in RLHF, efficient personalized alignment, and contributing computationally-efficient infrastructure to the research community.
+    - Our follow-up works further developed this agenda by studying [active reward modeling](https://arxiv.org/pdf/2502.04354) in RLHF, [efficient personalized alignment](https://arxiv.org/abs/2502.13131), and contributing [computationally efficient infrastructure](https://arxiv.org/pdf/2502.04357) to the research community.
 
 ## Reinforcement Learning (Since 2018)
 - **[Policy Continuation with Hindsight Inverse Dynamics](https://proceedings.neurips.cc/paper_files/paper/2019/file/3891b14b5d8cce2fdd8dcdb4ded28f6d-Paper.pdf)**  
@@ -55,6 +58,7 @@ Research
 
 News!
 ======
+---
 
 🇸🇬 (2025.04) I'll attend ICLR 2025 in-person. 
 
