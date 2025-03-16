@@ -15,7 +15,7 @@ redirect_from:
 
 Research
 ====
-**Research interests and motivations:** My research focuses on RL and LLM Alignment (also referred to as post-training). RL is the key toward super-human intelligence, and more powerful LLMs --- aligned with RL --- can significantly enhance the ability of humans to learn from machine intelligence through natural language. 
+**Research interests and motivations:** My research focuses on RL and LLM Alignment (also referred to as post-training). RL is the key toward super-human intelligence, and more powerful LLMs --- optimized by RL --- can significantly enhance the ability of humans to learn from machine intelligence through natural language. 
 
 **I am particularly proud of the following research works.** <br>
 
