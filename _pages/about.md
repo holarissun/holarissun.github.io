@@ -17,9 +17,9 @@ Research
 ====
 **Research interests and motivations:** My research focuses on RL and LLM Alignment (also referred to as post-training). RL is the key toward super-human intelligence, and more powerful LLMs --- optimized by RL --- can significantly enhance the ability of humans to learn from machine intelligence through natural language. 
 
-**I am particularly proud of the following research works.** <br>
+**I am particularly proud of the following research works:** <br>
 
-## Representative Works on Large Langauge Model Alignment (Since 2023)
+## Large Language Model Alignment (Since 2023)
 - **[Query-Dependent Prompt Evaluation and Optimization with Offline Inverse RL](https://arxiv.org/pdf/2309.06553)**  
   *ICLR 2024, also NeurIPS 2023 ENLSP Workshop as **<span style="background-color: #f0f0f0; color: #333;">Oral</span>** Presentation*  
   **Hao Sun**, Alihan Hüyük, Mihaela van der Schaar  
@@ -33,7 +33,7 @@ Research
     - **<span style="background-color: #f0f0f0; color: #333;">We justified and poineered the research direction of embedding-based reward modeling.</span>**
     - Our follow-up works further developed this agenda by studying active reward modeling in RLHF, efficient personalized alignment, and contributing computationally-efficient infrastructure to the research community.
 
-## Representative Works on Reinforcement Learning (Since 2018)
+## Reinforcement Learning (Since 2018)
 - **[Policy Continuation with Hindsight Inverse Dynamics](https://proceedings.neurips.cc/paper_files/paper/2019/file/3891b14b5d8cce2fdd8dcdb4ded28f6d-Paper.pdf)**  
   *NeurIPS 2019 **<span style="background-color: #f0f0f0; color: #333;">Spotlight (Top 2.4%)</span>***  
   **Hao Sun**, Zhizhong Li, Dahua Lin, Bolei Zhou  
