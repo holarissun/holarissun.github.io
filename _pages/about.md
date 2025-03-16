@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "🙋 About Me"
+excerpt: "🙋 About me"
 author_profile: true
 redirect_from:
   - /about/
@@ -15,14 +15,14 @@ redirect_from:
 ### <mark> I am seeking full-time research positions starting in 2025</mark>
 <br>
 
-Research
+📚 Research
 ====
 ---
 **Research interests and motivations:** My research focuses on RL and LLM Alignment (also referred to as post-training). RL is the key toward super-human intelligence, and more powerful LLMs --- optimized by RL --- can significantly enhance the ability of humans to learn from machine intelligence through natural language. 
 
 **I am particularly proud of the following research works:** <br>
 
-## Large Language Model Alignment (Since 2023)
+## 🧠 Large Language Model Alignment (Since 2023)
 - **[Query-Dependent Prompt Evaluation and Optimization with Offline Inverse RL](https://arxiv.org/pdf/2309.06553)**  
   *ICLR 2024, also NeurIPS 2023 ENLSP Workshop as **<span style="background-color: #f0f0f0; color: #333;">Oral</span>** Presentation*  
   **Hao Sun**, Alihan Hüyük, Mihaela van der Schaar  
@@ -36,7 +36,7 @@ Research
     - **<span style="background-color: #f0f0f0; color: #333;">We justified and poineered the research direction of embedding-based reward modeling.</span>**
     - Our follow-up works further developed this agenda by studying [active reward modeling](https://arxiv.org/pdf/2502.04354) in RLHF, [efficient personalized alignment](https://arxiv.org/abs/2502.13131), and contributing [computationally efficient infrastructure](https://arxiv.org/pdf/2502.04357) to the research community.
 
-## Reinforcement Learning (Since 2018)
+## 🤖 Reinforcement Learning (Since 2018)
 - **[Policy Continuation with Hindsight Inverse Dynamics](https://proceedings.neurips.cc/paper_files/paper/2019/file/3891b14b5d8cce2fdd8dcdb4ded28f6d-Paper.pdf)**  
   *NeurIPS 2019 **<span style="background-color: #f0f0f0; color: #333;">Spotlight (Top 2.4%)</span>***  
   **Hao Sun**, Zhizhong Li, Dahua Lin, Bolei Zhou  
@@ -56,7 +56,7 @@ Research
 <br>
 
 
-News!
+📰 News!
 ======
 ---
 
