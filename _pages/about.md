@@ -60,7 +60,7 @@ redirect_from:
 ======
 ---
 
-🇸🇬 (2025.04) I'll attend ICLR 2025 in-person. 
+🇸🇬 (2025.04) I'll attend ICLR 2025 in person. 
 
 🇺🇸 (2025.03) Guest lecture on [**Inverse RL Meets LLMs**](https://sites.google.com/view/irl-llm) at the UCLA Reinforcement Learning course. <br>
 
@@ -68,11 +68,11 @@ redirect_from:
 
 📄 (2025.02) Our Reward Model Paper [Part IV: Multi-Objective and Personalized Alignment with PCA](https://arxiv.org/abs/2502.13131) is online. <br> 
 
-📄 (2025.02) Our Reward Model Paper [Part III: Infrastructure for Reproducible Reward Model Research](https://arxiv.org/pdf/2502.04357) os online. <br> 
+📄 (2025.02) Our Reward Model Paper [Part III: Infrastructure for Reproducible Reward Model Research](https://arxiv.org/pdf/2502.04357) is online. <br> 
 
 📄 (2025.02) Our Reward Model Paper [Part II: Active Reward Modeling](https://arxiv.org/pdf/2502.04354) is online. <br> 
 
-📄 (2025.01) Our Reward Model Paper [Part I: Foundation, Theory, and Alternatives](https://arxiv.org/pdf/2411.04991) is accepted by ICLR as an **<mark>Oral 🎉</mark>**. It is an amazing experience to co-lead this paper wity [Yunyi](https://yunyishen.github.io/) and advised by [Jef](https://savior287.github.io/JFT-webpage/).
+📄 (2025.01) Our Reward Model Paper [Part I: Foundation, Theory, and Alternatives](https://arxiv.org/pdf/2411.04991) is accepted by ICLR as an **<mark>Oral 🎉</mark>**. It is an amazing experience to co-lead this paper with [Yunyi](https://yunyishen.github.io/) and advised by [Jef](https://savior287.github.io/JFT-webpage/).
 
 🇦🇹 (2024.12) We will run the [**Tutorial: Inverse RL Meets LLMs**](https://sites.google.com/view/irl-llm) at ACL-2025, see you at Vienna!<be>
 
