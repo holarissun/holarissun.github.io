@@ -60,7 +60,7 @@ redirect_from:
 ======
 ---
 
-📄 (2025.05) [Active Reward Modeling](https://arxiv.org/pdf/2502.04354) is accepted by ICML! <br> 
+📄 (2025.05) [**Active Reward Modeling**](https://arxiv.org/pdf/2502.04354) is accepted by ICML! <br> 
 
 🇺🇸 (2025.03) Guest lecture on [**Inverse RL Meets LLMs**](https://sites.google.com/view/irl-llm) at the UCLA Reinforcement Learning course. <br>
 
