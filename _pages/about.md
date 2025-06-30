@@ -12,13 +12,11 @@ redirect_from:
 
 🚀 **Hi there!** I am Hao Sun, a final-year Ph.D. student at the University of Cambridge, supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/" style="color: gray; text-decoration: none;">Prof. Mihaela van der Schaar</a>, working at the intersection of reinforcement learning (RL) and large language models (LLMs). During my M.Phil. study at <a href="https://mmlab.ie.cuhk.edu.hk/" style="color: gray; text-decoration: none;">MMLab@CUHK</a>, I was advised by <a href="http://dahua.site/" style="color: gray; text-decoration: none;">Prof. Dahua Lin</a> and <a href="https://boleizhou.github.io/" style="color: gray; text-decoration: none;">Prof. Bolei Zhou</a>. I hold a B.Sc. in Physics from the Yuanpei College at Peking University, and a B.Sc. from the Guanghua School of Management. My undergraduate thesis was supervised by <a href="https://zhouchenlin.github.io/" style="color: gray; text-decoration: none;">Prof. Zhouchen Lin</a>.
 
-### <mark> I am seeking full-time research positions starting in 2025</mark>
-<br>
 
 📚 Research
 ====
 ---
-**Research interests and motivations:** My research focuses on RL and LLM Alignment (also referred to as post-training). RL is the key toward super-human intelligence, and more powerful LLMs --- optimized by RL --- enable humans to learn from machine intelligence through natural language. 
+**Research interests and motivations:** My research focuses on minimalistic RL algorithms and their applications in LLM Alignment (also referred to as post-training). RL is the key toward super-human intelligence, and more powerful LLMs --- optimized by RL --- enable humans to learn from machine intelligence through natural language. 
 
 **I am particularly proud of the following research works:** <br>
 
@@ -27,7 +25,7 @@ redirect_from:
   *ICLR 2024, also NeurIPS 2023 ENLSP Workshop as **<span style="background-color: #f0f0f0; color: #333;">Oral</span>** Presentation*  
   **Hao Sun**, Alihan Hüyük, Mihaela van der Schaar  
     - We studied the large language model inference-time optimization on mathematical reasoning tasks.
-    - We highlighted the importance of reward models in **<span style="background-color: #f0f0f0; color: #333;">LLM inference-time optimization for math</span>**, which has been recognized by the community as an important topic since late 2024 (a year after the paper has been finished).
+    - We highlighted the importance of reward models in **<span style="background-color: #f0f0f0; color: #333;">LLM inference-time optimization for math</span>**, which has been recognized by the community as an important topic since late 2024 (one year after the paper has been finished).
 
 - **[Rethinking the Bradley-Terry Models in Preference-based Reward Modeling: Foundation, Theory, and its Alternatives](https://arxiv.org/pdf/2411.04991)**  
   *ICLR 2025 **<span style="background-color: #f0f0f0; color: #333;">Oral (Top 1.2%)</span>***  
@@ -59,8 +57,13 @@ redirect_from:
 📰 News!
 ======
 ---
+🇦🇹 (2025.07) We will run the [**ACL 2025 Tutorial (T1): Inverse RL Meets LLMs**](https://2025.aclweb.org/program/tutorials/), see you at Vienna! <be>
 
-📄 (2025.05) [**Active Reward Modeling**](https://arxiv.org/pdf/2502.04354) is accepted by ICML! <br> 
+🇬🇧 (2025.06) Invited talk on [**RL in the Era of LLMs**](https://sites.google.com/view/irl-llm) at Jump Trading London. <br>
+
+📄 (2025.05) [**Multi-Objective and Personalized Alignment with PCA**](https://arxiv.org/abs/2502.13131) is accepted by ACL findings! Two Papers on Prompt Optimization are accepted by ACL as [main](https://arxiv.org/pdf/2402.11347) and [findings](https://arxiv.org/pdf/2502.18746). <br> 
+
+📄 (2025.05) [**Active Reward Modeling**](https://arxiv.org/pdf/2502.04354) and [**A <mark>Spotlight 🎉</mark> Paper on LLM for RL**](https://openreview.net/forum?id=5hyfZ2jYfI) are accepted by ICML! <be> 
 
 🇺🇸 (2025.03) Guest lecture on [**Inverse RL Meets LLMs**](https://sites.google.com/view/irl-llm) at the UCLA Reinforcement Learning course. <br>
 
@@ -73,8 +76,6 @@ redirect_from:
 📄 (2025.02) Our Reward Model Paper [Part II: Active Reward Modeling](https://arxiv.org/pdf/2502.04354) is online. <br> 
 
 📄 (2025.01) Our Reward Model Paper [Part I: Foundation, Theory, and Alternatives](https://arxiv.org/pdf/2411.04991) is accepted by ICLR as an **<mark>Oral 🎉</mark>**. It is an amazing experience to co-lead this paper with [Yunyi](https://yunyishen.github.io/) and advised by [Jef](https://savior287.github.io/JFT-webpage/).
-
-🇦🇹 (2024.12) We will run the [**Tutorial: Inverse RL Meets LLMs**](https://sites.google.com/view/irl-llm) at ACL-2025, see you at Vienna!<be>
 
 🇬🇧 (2024.10) New talk on **Inverse RL Meets LLMs** at the vdsLab2024 OpenHouse and UCLA Zhou Lab. [Slide](https://holarissun.github.io/files/IRL_LLM_Oct.pdf) is online<be>
 
