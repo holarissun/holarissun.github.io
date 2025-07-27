@@ -61,7 +61,7 @@ redirect_from:
 📌 (2025.05) **Call for community action!** [OpenReview Should be Protected and Leveraged as a
 Community Asset for Research in the Era of Large Language Models](https://arxiv.org/abs/2505.21537)
 
-🇦🇹 (2025.07) Attended ACL 2025 Run the [**ACL 2025 Tutorial (T1): Inverse RL Meets LLM Alignment**](https://arxiv.org/abs/2507.13158) at Vienna. [Slide](https://github.com/holarissun/InverseRLmeetsLLMs/blob/main/ACL-2025-Tutorial-July27-final.pdf). We have a [write-up](https://arxiv.org/abs/2507.13158) for interested readers to find references. <be>
+🇦🇹 (2025.07) Attended ACL 2025 Run the [**ACL 2025 Tutorial (T1): Inverse RL Meets LLM Alignment**](https://huggingface.co/papers/2507.13158) at Vienna. [Slide](https://github.com/holarissun/InverseRLmeetsLLMs/blob/main/ACL-2025-Tutorial-July27-final.pdf). We have a [write-up]([https://arxiv.org/abs/2507.13158](https://huggingface.co/papers/2507.13158)) for interested readers to find references. <be>
 
 🇺🇸 (2025.07) Invited talk on [**RL in the Era of LLMs**](https://sites.google.com/view/irl-llm) at Intuit AI research. <br>
 
