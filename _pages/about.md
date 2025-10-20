@@ -13,7 +13,7 @@ redirect_from:
 I am a Researcher at Google DeepMind. I did my PhD at the University of Cambridge, supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/" style="color: gray; text-decoration: none;">Prof. Mihaela van der Schaar</a>. I obtained my M.Phil. at <a href="https://mmlab.ie.cuhk.edu.hk/" style="color: gray; text-decoration: none;">MMLab@CUHK</a>, advised by <a href="http://dahua.site/" style="color: gray; text-decoration: none;">Prof. Dahua Lin</a> and <a href="https://boleizhou.github.io/" style="color: gray; text-decoration: none;">Prof. Bolei Zhou</a>. I studied Physics in my undergrad at Peking University, and my thesis was supervised by <a href="https://zhouchenlin.github.io/" style="color: gray; text-decoration: none;">Prof. Zhouchen Lin</a>.
 
 
-📰 News!
+News
 ======
 ---
 
