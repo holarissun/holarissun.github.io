@@ -10,15 +10,12 @@ redirect_from:
 
 ---
 
-I am a Researcher at Google DeepMind. I did my PhD at the University of Cambridge, supervised by <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/" style="color: gray; text-decoration: none;">Prof. Mihaela van der Schaar</a>. I obtained my M.Phil. at <a href="https://mmlab.ie.cuhk.edu.hk/" style="color: gray; text-decoration: none;">MMLab@CUHK</a>, advised by <a href="http://dahua.site/" style="color: gray; text-decoration: none;">Prof. Dahua Lin</a> and <a href="https://boleizhou.github.io/" style="color: gray; text-decoration: none;">Prof. Bolei Zhou</a>. I studied Physics in my undergrad at Peking University, and my thesis was supervised by <a href="https://zhouchenlin.github.io/" style="color: gray; text-decoration: none;">Prof. Zhouchen Lin</a>.
-
+I am a Research Scientist at Google DeepMind. I did my PhD at the DAMTP, University of Cambridge, M.Phil. at MMLab. I studied Physics in my undergrad at Peking University.
+I seek alpha in RL. 
 
 News
 ======
 ---
-
-📌 (2025.05) **Call for community action!** [OpenReview Should be Protected and Leveraged as a
-Community Asset for Research in the Era of Large Language Models](https://arxiv.org/abs/2505.21537)
 
 🇦🇹 (2025.07) Attended ACL 2025 Run the [**ACL 2025 Tutorial (T1): Inverse RL Meets LLM Alignment**](https://huggingface.co/papers/2507.13158) at Vienna. [Slide](https://github.com/holarissun/InverseRLmeetsLLMs/blob/main/ACL-2025-Tutorial-July27-final.pdf). We have a [write-up](https://huggingface.co/papers/2507.13158) for interested readers to find references. <be>
 
@@ -42,31 +39,3 @@ Community Asset for Research in the Era of Large Language Models](https://arxiv.
 
 📄 (2025.01) Our Reward Model Paper [Part I: Foundation, Theory, and Alternatives](https://arxiv.org/pdf/2411.04991) is accepted by ICLR as an **<mark>Oral 🎉</mark>**. It is an amazing experience to work with [Yunyi](https://yunyishen.github.io/) and [Jef](https://savior287.github.io/JFT-webpage/).
 
-
-
-<a href="https://clustrmaps.com/site/1bysk"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=RtOCs2DxbgCleb2bwL7ZaU9kONDpyPNXGY_Guo_CtaM&cl=ffffff" /></a>
-
-<!--
-
-Education
-======
- <span style="font-weight: bold;"> 💪 Ph.D., van der Schaar Lab, University of Cambridge, Jun.2025 (expected)<br>
-  </span>
-  - Research Topic: Reality-Centric Deep Reinforcement Learning
-
-  <span style="font-weight: bold;"> 🎓 M.Phil., MMLab, The Chinese University of Hong Kong, Sep.2021.<br>
-  </span>
-  - Thesis:
-    <a href="https://github.com/2Groza/MPhil_Thesis/blob/main/MPhil_Thesis.pdf">Toward Practical Deep Reinforcement Learning: Sample-Efficient Self-Supervised Continuous Control</a><br>
-  
-  - Slide can be found at: 
-    <a href="https://github.com/2Groza/MPhil_Thesis/blob/main/Toward%20Practical%20Reinforcement%20Learning.pptx">Slide</a><br>
-  <p class="item_desc"></p>
-  
-  
-<span style="font-weight: bold;"> 👨‍🎓 B.Sc., School of Physics & Yuanpei College, Peking University, Jul.2018.<br>
-</span>
-
-
-I worked as an RA at the LCDM group@UIUC. I used to work on cosmology gravitational lensing in Prof.  and Ultracold atom during my undergrad research.
--->
