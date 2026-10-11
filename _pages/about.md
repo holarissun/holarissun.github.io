@@ -10,6 +10,6 @@ redirect_from:
 
 ---
 
-I am a Research Scientist at Google DeepMind. I did my PhD at the DAMTP, University of Cambridge, M.Phil. at MMLab. I studied Physics in my undergrad at Peking University.
+I am a Research Scientist at Google DeepMind. I received my PhD from DAMTP, University of Cambridge, and my M.Phil. from MMLab. I studied Physics as an undergraduate at Peking University.
 
-I seek alpha in RL. 
+I seek alpha in RL.
